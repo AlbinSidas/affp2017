@@ -49,6 +49,7 @@ utgivare eller garant.
 | [06-spelarna-och-vuxna.md](06-spelarna-och-vuxna.md) | Nivåanpassning, stök, eget barn, mat, gränser. Utfästelserna i §5 styr allt annat. |
 | [08-arshjul.md](08-arshjul.md) | Träningsperioder, temablock, aktiviteter, deadlines. |
 | [09-positionsspel.md](09-positionsspel.md) | Positionsspel från 7 mot 7 och uppåt. |
+| [11-metoden.md](11-metoden.md) | **Resonemanget bakom allt annat.** Varför övningarna och periodiseringen ser ut som de gör, hur en säsong planeras, och hur metoden bär upp i äldre åldrar. |
 
 ### För vårdnadshavare
 
@@ -59,12 +60,13 @@ utgivare eller garant.
 
 ### Att skriva ut
 
-Fyra PDF:er, byggda ur samma källor. Alla går att mejla som de är.
+Fem PDF:er, byggda ur samma källor. Alla går att mejla som de är.
 
 | Fil | Till vem | Omfång |
 |---|---|---|
-| [Lagparmen.pdf](Lagparmen.pdf) | Tränare | ~97 sidor |
+| [Lagparmen.pdf](Lagparmen.pdf) | Tränare | ~99 sidor |
 | [Positionsspel.pdf](Positionsspel.pdf) | Tränare | ~27 sidor |
+| [Metoden.pdf](Metoden.pdf) | Tränare | ~15 sidor |
 | [Till-er-hemma.pdf](Till-er-hemma.pdf) | Vårdnadshavare | 7 sidor |
 | [Matguide.pdf](Matguide.pdf) | Vårdnadshavare | 9 sidor |
 

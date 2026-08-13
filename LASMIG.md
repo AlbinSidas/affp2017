@@ -31,6 +31,7 @@ Behöver du bara *ett* — läs `LAGPARMEN.html`. Där ligger allt nedanstående
 | **08-arshjul.md** | Träningsperioder, temablock, aktiviteter, deadlines. | I augusti och i februari. |
 | **09-positionsspel.md** | Hur laget står och varför, från 7 mot 7 och uppåt. Utbildning för oss. | Inför steget till 7 mot 7. Egen PDF. |
 | **10-till-er-hemma.md** | Till vårdnadshavare: vad vi lovar, vad vi behöver. | Skickas ut inför varje säsong. Egen PDF. |
+| **11-metoden.md** | Varför planen ser ut som den gör. Periodiseringen, vägen uppåt, tre pass i veckan. | När du ska planera en säsong — eller är oense med planen. Egen PDF. |
 
 **MALL-sasongsplan.md** används när vi lägger vårens plan.
 
@@ -47,6 +48,7 @@ Behöver du bara *ett* — läs `LAGPARMEN.html`. Där ligger allt nedanstående
 | **Oss tränare** | `Lagparmen.pdf` | ca 95 sidor A4, ca 1,7 MB | Vid säsongsstart |
 | **Oss tränare** | `Positionsspel.pdf` | 24 sidor, ca 430 kB | **Nu** — 7 mot 7 spelas i höst |
 | **Vårdnadshavare** | `Till-er-hemma.pdf` | 7 sidor, ca 140 kB | Inför varje säsong |
+| **Oss tränare** | `Metoden.pdf` | 15 sidor, ca 300 kB | Inför planering av en ny säsong |
 | **Vårdnadshavare** | `Matguide.pdf` | 8 sidor, ca 250 kB | Inför cup |
 
 Alla fyra går att mejla eller lägga i lagchatten som de är. Ingen behöver ladda ner en mapp, öppna flera filer eller ha rätt program — en PDF öppnas på vilken telefon som helst.

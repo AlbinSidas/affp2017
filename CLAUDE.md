@@ -22,6 +22,7 @@ working documents plus the compiled distribution files:
 06-spelarna-och-vuxna.md      differentiation, behaviour, own child, food, boundaries
 07-matguide.html              nutrition infographics  [generated]
 08-arshjul.md                 training periods, theme blocks, activities, deadlines
+11-metoden.md                 the reasoning behind the plan — periodization, scaling upward
 LAGPARMEN.html                everything above in one print/PDF file  [generated]
 index.html                    landing page for GitHub Pages           [generated]
 *.pdf                         four distribution PDFs                  [generated]
@@ -92,7 +93,7 @@ PDFs that looked finished. Do not go back to running the steps individually.
 | `bank.py` | `03-ovningsbank.html` |
 | `matguide.py` | `07-matguide.html` |
 | `parm.py` | `LAGPARMEN.html` |
-| `doc.py` | `09-positionsspel.html`, `10-till-er-hemma.html` |
+| `doc.py` | `09-positionsspel.html`, `10-till-er-hemma.html`, `11-metoden.html` |
 | `index.py` | `index.html` |
 | `md.py` | shared markdown→HTML converter and page shell — no output of its own |
 | `nya_svgs.py` | diagrams into `svgs.json` and `pos_svgs.json`; run only when diagrams change |
@@ -164,6 +165,10 @@ Prefixes: `A` running with the ball · `B` 1v1 · `C` first touch and scanning �
 - Age-appropriateness is binding. The "what we deliberately do NOT do" column in `02-sa-tranar-vi.md` carries the same weight as the left column.
 - **Development is the stated purpose of training.** Do not soften `02-sa-tranar-vi.md` §"Vad träningen är till för" back into participation-for-its-own-sake language. Demands are on engagement and effort at training, never on selection, ranking, or match minutes — those are fixed by §5 of `06-spelarna-och-vuxna.md`.
 - **Passvärd is the head coach, every session, and does not rotate.** Name the role, never the person.
+- **Rationale belongs in the material; planning history does not.** `11-metoden.md` is the
+  reasoning space — why the blocks are four weeks, why A precedes C, why a third session
+  must differ in kind. Statements about what was *originally* intended, what changed and
+  when, belong in `_internt/`. A reason ages well; an anecdote does not.
 - The commitments in `06-spelarna-och-vuxna.md` §5 constrain everything else. If a change conflicts with them, the change is wrong.
 - **Scope discipline.** This is one team's material. Do not reintroduce club-wide structures, roles, or coordination mechanisms — that scope was deliberately retired.
 

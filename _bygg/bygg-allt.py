@@ -27,6 +27,7 @@ STEG = ['build.py', 'bank.py', 'matguide.py', 'parm.py', 'doc.py', 'index.py']
 PDF = [
     ('LAGPARMEN.html',        'Lagparmen.pdf'),
     ('09-positionsspel.html', 'Positionsspel.pdf'),
+    ('11-metoden.html',        'Metoden.pdf'),
     ('10-till-er-hemma.html', 'Till-er-hemma.pdf'),
     ('07-matguide.html',      'Matguide.pdf'),
 ]
@@ -103,7 +104,7 @@ else:
     print('  övnings-ID     %d, lika i alla filer' % len(next(iter(ids.values()))))
 
 for f in ['03-ovningsbank.html', '04-sasongsplan-host-2026.html', 'LAGPARMEN.html',
-          '09-positionsspel.html', '10-till-er-hemma.html']:
+          '09-positionsspel.html', '10-till-er-hemma.html', '11-metoden.html']:
     h = läs(f)
     brutna = set(re.findall(r'href="#([a-zA-Z0-9-]+)"', h)) - set(re.findall(r'id="([a-zA-Z0-9-]+)"', h))
     if brutna:
@@ -135,4 +136,4 @@ if fel:
     for f in fel:
         print('  !', f)
     sys.exit(1)
-print('ALLT OK — de fyra PDF:erna är aktuella och går att skicka ut.')
+print('ALLT OK — alla PDF:er är aktuella och går att skicka ut.')

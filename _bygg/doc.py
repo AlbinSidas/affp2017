@@ -100,6 +100,27 @@ build(
 )
 
 build(
+    '11-metoden.md', '11-metoden.html',
+    title="Metoden — varför planen ser ut som den gör",
+    eyebrow="Åtvidabergs FF · Utbildningsmaterial för tränare · Version 1.0",
+    h1a="Met", h1b="oden",
+    sub=("Resonemanget bakom besluten: varför övningarna ser ut som de gör, varför "
+         "periodiseringen är uppbyggd som den är, hur nästa säsong planeras, och hur "
+         "samma metod bär hela vägen upp genom 7 mot 7, 9 mot 9 och 11 mot 11. "
+         "Läs den här när du är oense med planen."),
+    trio=[("Volym", "Bollkontakter går före allt annat."),
+          ("Regel", "Regeln gör jobbet, inte rösten."),
+          ("Upprepning", "Tre teman per säsong, inte tio.")],
+    footer=('<p><b>Metoden · P9 · Åtvidabergs FF</b><br>'
+            'Skälen bakom det som står i <span class="mono">02-sa-tranar-vi.md</span>, '
+            '<span class="mono">08-arshjul.md</span> och <span class="mono">09-positionsspel.md</span>. '
+            'Håller resonemanget inte är det planen som ska ändras, inte den här texten som '
+            'ska försvaras.</p>'
+            '<p style="margin-top:14px">Byggs av <span class="mono">_bygg/doc.py</span> ur '
+            '<span class="mono">11-metoden.md</span> — redigera aldrig html-filen.</p>'),
+)
+
+build(
     '10-till-er-hemma.md', '10-till-er-hemma.html',
     title="Till er hemma — P9, Åtvidabergs FF",
     eyebrow="Åtvidabergs FF · Pojkar 9 år · Till vårdnadshavare",

@@ -40,6 +40,10 @@ TRANARE = [
          'Hur laget står och varför, från 7 mot 7 och uppåt. Principerna i inlärningsordning, '
          'tio övningar och en färdighetstrappa.',
          'Webb · även som PDF'),
+    card('11-metoden.html', 'Resonemang', 'Metoden',
+         'Varför övningarna ser ut som de gör, varför periodiseringen är uppbyggd som den '
+         'är, hur nästa säsong planeras, och hur metoden bär upp genom 9 mot 9 och 11 mot 11.',
+         'Webb · även som PDF'),
     card('03-ovningsbank.html', 'Referens', 'Övningsbanken',
          '42 övningar med diagram, uppställning, coachpunkter och nivåanpassning. '
          'Varje övning har ett ID som betyder samma sak för alltid.',
@@ -63,6 +67,7 @@ HEMMA = [
 PDF = [
     ('Lagparmen.pdf', 'Lagpärmen', 'Tränare'),
     ('Positionsspel.pdf', 'Positionsspelet', 'Tränare'),
+    ('Metoden.pdf', 'Metoden', 'Tränare'),
     ('Till-er-hemma.pdf', 'Till er hemma', 'Vårdnadshavare'),
     ('Matguide.pdf', 'Matguiden', 'Vårdnadshavare'),
 ]
@@ -142,7 +147,7 @@ materialet. Aldrig kommentarer om ett barns kropp eller vikt.</p>
 
 <section id="pdf">
 <div class="shead"><span class="num">04</span><h2>Att skriva ut</h2></div>
-<p class="lede">Fyra PDF:er, byggda ur samma källor som webbsidorna. Alla går att mejla
+<p class="lede">Fem PDF:er, byggda ur samma källor som webbsidorna. Alla går att mejla
 eller lägga i lagchatten som de är.</p>
 <table>
 <tr><th>Fil</th><th>Till vem</th><th>Storlek</th></tr>
