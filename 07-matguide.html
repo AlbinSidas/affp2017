@@ -1,0 +1,363 @@
+<!DOCTYPE html><html lang="sv"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mat och dryck — Åtvidabergs FF</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#10161C; --blue:#1B3A6B; --copper:#A85B2B; --verd:#3E7D6E;
+  --paper:#E9ECE8; --card:#FFFFFF; --line:#CBD1CA; --grey:#6E766F;
+  --sand:#DFE3DD;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font-family:'Source Sans 3',system-ui,sans-serif;font-size:16.5px;line-height:1.55}
+.wrap{max-width:980px;margin:0 auto;padding:0 20px 100px}
+h1,h2,h3,h4,.disp{font-family:'Oswald',Impact,sans-serif;font-weight:500;
+  letter-spacing:.01em;margin:0}
+.mono{font-family:'IBM Plex Mono',monospace}
+
+/* hero */
+header.hero{background:var(--blue);color:#fff;padding:52px 0 0;margin-bottom:0;
+  border-bottom:9px solid var(--copper)}
+.hero .wrap{padding-bottom:44px}
+.eyebrow{font-family:'IBM Plex Mono',monospace;font-size:12px;letter-spacing:.22em;
+  text-transform:uppercase;color:#9FC3D9;margin-bottom:22px}
+.hero h1{font-size:clamp(46px,9.5vw,104px);line-height:.88;text-transform:uppercase;
+  font-weight:600;letter-spacing:-.005em}
+.hero h1 em{font-style:normal;color:var(--copper);
+  -webkit-text-stroke:1.5px var(--copper);color:transparent}
+.tri{display:flex;gap:0;margin-top:38px;border-top:1px solid rgba(255,255,255,.28)}
+.tri div{flex:1;padding:20px 18px 6px;border-right:1px solid rgba(255,255,255,.28)}
+.tri div:last-child{border-right:0}
+.tri strong{display:block;font-family:'Oswald',sans-serif;font-size:27px;
+  text-transform:uppercase;color:#fff;font-weight:600;letter-spacing:.03em}
+.tri span{font-size:14.5px;color:#BCD2E2;display:block;margin-top:5px;line-height:1.4}
+.sub{margin-top:26px;font-size:17px;color:#CFE0EC;max-width:58ch}
+
+/* nav */
+nav{position:sticky;top:0;z-index:50;background:var(--paper);
+  border-bottom:1px solid var(--line);padding:0}
+nav .wrap{display:flex;gap:2px;overflow-x:auto;padding:0 20px;
+  scrollbar-width:none}
+nav .wrap::-webkit-scrollbar{display:none}
+nav a{font-family:'Oswald',sans-serif;font-size:13.5px;text-transform:uppercase;
+  letter-spacing:.09em;color:var(--grey);text-decoration:none;padding:15px 15px;
+  white-space:nowrap;border-bottom:3px solid transparent}
+nav a:hover,nav a:focus{color:var(--blue);border-bottom-color:var(--copper);outline:none}
+
+/* sections */
+section{padding-top:64px}
+.shead{display:flex;align-items:baseline;gap:16px;
+  border-bottom:2px solid var(--ink);padding-bottom:9px;margin-bottom:8px}
+.shead h2{font-size:clamp(28px,4.6vw,42px);text-transform:uppercase;font-weight:600}
+.shead .num{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--copper);
+  letter-spacing:.16em;font-weight:600}
+.lede{font-size:17.5px;color:#3A4340;max-width:66ch;margin:16px 0 30px}
+
+/* key */
+.key{background:var(--card);border:1px solid var(--line);border-radius:4px;
+  padding:22px 24px;display:grid;grid-template-columns:repeat(auto-fit,minmax(148px,1fr));
+  gap:16px 22px;margin-bottom:14px}
+.key div{display:flex;align-items:center;gap:11px;font-size:14.5px}
+.key svg{flex:none}
+
+/* exercise cards */
+.exgrid{display:flex;flex-direction:column;gap:18px}
+.ex{background:var(--card);border:1px solid var(--line);border-radius:4px;
+  overflow:hidden;scroll-margin-top:64px}
+.ex-top{display:flex;gap:0;flex-wrap:wrap}
+.ex-fig{flex:1 1 340px;min-width:290px;background:var(--sand);padding:14px;
+  display:flex;align-items:center;justify-content:center}
+.ex-fig svg{width:100%;height:auto;display:block}
+.ex-body{flex:1 1 340px;min-width:290px;padding:22px 24px}
+.ex-code{font-family:'IBM Plex Mono',monospace;font-size:12px;font-weight:700;
+  letter-spacing:.14em;color:#fff;background:var(--copper);padding:3px 8px;
+  border-radius:2px;display:inline-block}
+.ex-body h3{font-size:26px;text-transform:uppercase;margin:11px 0 3px;font-weight:600}
+.meta{font-family:'IBM Plex Mono',monospace;font-size:12.5px;color:var(--verd);
+  letter-spacing:.04em;margin-bottom:14px;font-weight:500}
+.ex-body p{margin:0 0 11px;font-size:15.5px}
+.ex-body p b{color:var(--blue)}
+.cp{background:#F4F6F3;border-top:1px solid var(--line);padding:18px 24px}
+.cp h4{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.17em;
+  text-transform:uppercase;color:var(--copper);margin-bottom:9px;font-weight:700}
+.cp ul{margin:0;padding-left:19px}
+.cp li{font-size:15px;margin-bottom:6px}
+.step{margin-top:13px;padding-top:12px;border-top:1px dashed var(--line);
+  font-size:14.5px;color:#3A4340}
+.step b{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.14em;
+  color:var(--verd);text-transform:uppercase}
+
+/* session cards */
+.wk{font-family:'Oswald',sans-serif;text-transform:uppercase;font-size:14px;
+  letter-spacing:.2em;color:var(--copper);margin:38px 0 12px;font-weight:600;
+  border-top:1px solid var(--line);padding-top:14px}
+.ses{background:var(--card);border:1px solid var(--line);border-radius:4px;
+  margin-bottom:14px;overflow:hidden;scroll-margin-top:64px}
+.ses-h{display:flex;align-items:center;gap:14px;flex-wrap:wrap;
+  padding:15px 22px;background:var(--blue);color:#fff}
+.ses-h .pid{font-family:'IBM Plex Mono',monospace;font-size:12px;font-weight:700;
+  background:rgba(255,255,255,.16);padding:3px 8px;border-radius:2px;letter-spacing:.1em}
+.ses-h .d{font-family:'Oswald',sans-serif;font-size:22px;text-transform:uppercase;
+  font-weight:500;letter-spacing:.03em}
+.ses-h .t{font-family:'IBM Plex Mono',monospace;font-size:12.5px;color:#AEC8DC;
+  margin-left:auto;letter-spacing:.05em}
+.ses-th{padding:14px 22px 4px;font-size:16.5px}
+.ses-th b{font-family:'Oswald',sans-serif;text-transform:uppercase;font-weight:500;
+  font-size:19px;letter-spacing:.02em;display:block;color:var(--blue)}
+.spine{padding:14px 22px 8px;position:relative}
+.spine::before{content:"";position:absolute;left:26px;top:20px;bottom:14px;
+  width:2px;background:var(--sand)}
+.row{display:flex;gap:16px;align-items:flex-start;padding:7px 0;position:relative}
+.row .tm{font-family:'IBM Plex Mono',monospace;font-size:13px;font-weight:600;
+  color:var(--verd);width:54px;flex:none;padding-left:16px;position:relative}
+.row .tm::before{content:"";position:absolute;left:-1px;top:5px;width:9px;height:9px;
+  background:var(--card);border:2.5px solid var(--verd);border-radius:50%}
+.row:last-child .tm::before{background:var(--verd)}
+.row .cd{flex:none;width:44px}
+.row .cd a{font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:700;
+  color:var(--copper);text-decoration:none;border:1px solid var(--copper);
+  padding:1px 5px;border-radius:2px;letter-spacing:.06em}
+.row .cd a:hover{background:var(--copper);color:#fff}
+.row .cd span{font-family:'IBM Plex Mono',monospace;font-size:11px;color:#B4BAB3;
+  padding:1px 5px}
+.row .wt{font-size:15.5px;flex:1}
+.focus{background:#F4F6F3;border-top:1px solid var(--line);padding:13px 22px;
+  font-size:15px}
+.focus b{font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--copper);display:block;margin-bottom:3px}
+.bridge .ses-h{background:var(--copper)}
+.bridge .ses-h .t{color:#F3DCCB}
+
+/* callouts */
+.call{border-left:4px solid var(--copper);background:var(--card);
+  padding:18px 22px;margin:22px 0;border-radius:0 4px 4px 0;
+  border-top:1px solid var(--line);border-right:1px solid var(--line);
+  border-bottom:1px solid var(--line)}
+.call h4{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.17em;
+  text-transform:uppercase;color:var(--copper);margin-bottom:8px;font-weight:700}
+.call p{margin:0 0 9px;font-size:16px}
+.call p:last-child{margin-bottom:0}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media(max-width:700px){.two{grid-template-columns:1fr}}
+table{width:100%;border-collapse:collapse;background:var(--card);
+  border:1px solid var(--line);font-size:15px;margin:8px 0 20px}
+th{background:var(--blue);color:#fff;font-family:'Oswald',sans-serif;font-weight:500;
+  text-transform:uppercase;font-size:13px;letter-spacing:.08em;text-align:left;
+  padding:10px 13px}
+td{padding:10px 13px;border-top:1px solid var(--line);vertical-align:top}
+td.mono{font-family:'IBM Plex Mono',monospace;font-size:13px;color:var(--verd);
+  white-space:nowrap;font-weight:600}
+.cardgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px;margin:8px 0 22px}
+.pcard{background:var(--card);border:2px solid var(--ink);border-radius:4px;padding:0;overflow:hidden;max-width:420px}
+.pc-h{background:var(--ink);color:#fff;font-family:'Oswald',sans-serif;font-size:15px;
+  letter-spacing:.12em;padding:9px 14px;display:flex;justify-content:space-between;align-items:baseline}
+.pc-h span{font-family:'IBM Plex Mono',monospace;font-size:9.5px;color:#9AA39C;letter-spacing:.1em}
+.pc-n{padding:12px 14px 8px;font-family:'IBM Plex Mono',monospace;font-size:10.5px;
+  letter-spacing:.14em;color:var(--grey);display:flex;align-items:baseline;gap:9px}
+.pc-line{flex:1;border-bottom:1px solid var(--line);height:15px}
+.pc-t{width:100%;border:0;margin:0;font-size:13px;background:transparent}
+.pc-t th{background:transparent;color:var(--copper);font-family:'IBM Plex Mono',monospace;
+  font-size:9.5px;letter-spacing:.1em;padding:4px 8px;text-align:center;border-bottom:1px solid var(--line)}
+.pc-t th:first-child{width:44%}
+.pc-t td{padding:7px 8px;border-top:1px solid #EDEFEC;font-size:12.5px}
+.pc-t td:not(:first-child){border-left:1px solid var(--line);background:#FAFBFA;width:18%}
+.pc-g{padding:11px 14px 4px;font-family:'IBM Plex Mono',monospace;font-size:9.5px;
+  letter-spacing:.13em;color:var(--grey);display:flex;align-items:baseline;gap:9px}
+.pc-f{background:var(--copper);color:#fff;font-family:'Oswald',sans-serif;font-size:12.5px;
+  letter-spacing:.09em;padding:7px 14px;text-align:center;margin-top:8px}
+footer{margin-top:70px;border-top:2px solid var(--ink);padding-top:26px;
+  font-size:14.5px;color:var(--grey)}
+a{color:var(--blue)}
+@media print{
+  nav{display:none} .ses,.ex{break-inside:avoid;page-break-inside:avoid}
+  body{background:#fff;font-size:11pt} header.hero{background:#fff;color:#000}
+  .hero h1{color:#000}
+}
+
+.fig{background:var(--sand);border:1px solid var(--line);border-radius:4px;
+  padding:16px;margin:18px 0}
+.fig svg{width:100%;height:auto;display:block}
+.big{font-family:'Oswald',sans-serif;font-size:clamp(20px,3vw,27px);text-transform:uppercase;
+  font-weight:600;color:var(--blue);margin:34px 0 6px;letter-spacing:.01em}
+.rule{border:0;border-top:1px solid var(--line);margin:34px 0}
+.rank{counter-reset:r;list-style:none;padding:0;margin:14px 0}
+.rank li{counter-increment:r;position:relative;padding:14px 0 14px 58px;
+  border-top:1px solid var(--line);font-size:16.5px}
+.rank li:last-child{border-bottom:1px solid var(--line)}
+.rank li::before{content:counter(r);position:absolute;left:0;top:12px;
+  font-family:'Oswald',sans-serif;font-size:26px;font-weight:600;color:var(--copper);
+  line-height:1}
+.rank b{display:block;font-family:'Oswald',sans-serif;text-transform:uppercase;
+  font-size:18px;font-weight:500;letter-spacing:.02em;color:var(--ink);margin-bottom:2px}
+.warn{border-left:4px solid #C4302B;background:#FDF4F3}
+.warn h4{color:#C4302B}
+</style></head><body>
+
+<header class="hero"><div class="wrap">
+<div class="eyebrow">Åtvidabergs FF · 02-REFERENS · För ledare och vårdnadshavare</div>
+<h1>Mat och <em>dryck</em></h1>
+<div class="sub">Barnfotboll, 8–12 år. Tre situationer: cupdagen, träningsdagen och matchdagen.
+Det här är inte idrottsnutrition. Det handlar om att barnen har ätit tillräckligt
+och druckit tillräckligt — inget mer avancerat än så.</div>
+<div class="tri">
+<div><strong>Tillräckligt</strong><span>De flesta problem är att barnet ätit för lite, inte fel.</span></div>
+<div><strong>Vanlig mat</strong><span>Inga tillskott, ingen sportdryck, inga specialprodukter.</span></div>
+<div><strong>Matglädje</strong><span>Aldrig prat om vikt. Aldrig mat som belöning eller straff.</span></div>
+</div></div></header>
+
+<nav><div class="wrap">
+<a href="#viktigast">Det viktigaste</a>
+<a href="#traning">Träningsdagen</a>
+<a href="#cup">Cupdagen</a>
+<a href="#match">Matchdagen</a>
+<a href="#dryck">Dryck</a>
+<a href="#granser">Gränser</a>
+</div></nav>
+
+<div class="wrap">
+
+<section id="viktigast"><div class="shead"><span class="num">01</span><h2>Det viktigaste, i ordning</h2></div>
+<p class="lede">Om ni bara orkar med en sak, ta den första. Den löser mer än de andra tillsammans.</p>
+<ol class="rank">
+<li><b>Mellanmål efter skolan</b>Skollunchen ligger runt elva. Träningen börjar 17:30. Det är fyra och en halv timme utan mat, efter en hel skoldag. Ett rejält mellanmål vid tre–fyra är den enskilt viktigaste måltiden på en träningsdag — och den som oftast missas.</li>
+<li><b>Vatten, och en egen flaska</b>Barn dricker sällan tillräckligt av sig själva. De känner inte törst lika tydligt som vuxna och de glömmer bort det när det är roligt. Flaska med till varje träning, drick i varje paus — inte bara när någon säger till.</li>
+<li><b>Ät något efter kvällsträning</b>De kommer hem vid halv åtta. Det känns sent, och frestelsen är att hoppa över. Låt bli att hoppa över. Även en macka och ett glas mjölk är bättre än ingenting — det påverkar både sömnen och nästa dag.</li>
+<li><b>Frukost varje dag</b>Trivialt, men det är den vanligaste orsaken till att ett barn är slut redan på skollunchen.</li>
+<li><b>Inget nytt på matchdagen</b>Ny mat, ny dryck, något man aldrig testat. Testa på en vanlig träning i stället.</li>
+</ol>
+<div class="call"><h4>Och det här är inte på listan</h4>
+<p>Proteinpulver, sportdryck, energidryck, kosttillskott, återhämtningsdrycker,
+kolhydratsuppladdning. Inget av det hör hemma hos en nioåring, och det finns inget
+stöd för att det skulle hjälpa i den här åldern.</p>
+<p>Det mesta som skrivs om idrottsnutrition är skrivet för tonåringar eller vuxna elitidrottare.
+Det går inte att skala ner till barn — det ska helt enkelt inte tillämpas alls.</p></div>
+</section>
+
+<section id="traning"><div class="shead"><span class="num">02</span><h2>Träningsdagen</h2></div>
+<p class="lede">Träning 17:30. Tisdag 90 minuter, torsdag 60 minuter. Skillnaden mellan
+de två passen spelar mindre roll än man tror — det är luckan efter skolan som avgör hur
+kvällen blir.</p>
+<div class="fig"><svg viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg" role="img" class="dgm"><defs><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#10161C"/></marker><marker id="arc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#A85B2B"/></marker><marker id="arb" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#1B3A6B"/></marker></defs><text x="400" y="26" font-size="19" fill="#10161C" text-anchor="middle" font-weight="700" font-family="Source Sans 3, sans-serif">TRÄNINGSDAGEN</text><text x="400" y="46" font-size="12" fill="#3E7D6E" text-anchor="middle" font-weight="600" font-family="Source Sans 3, sans-serif">Träning 17:30 — tisdag 90 min, torsdag 60 min</text><line x1="50" y1="200" x2="760" y2="200" stroke="#10161C" stroke-width="2.5"/><line x1="95" y1="194" x2="95" y2="206" stroke="#10161C" stroke-width="2.5"/><text x="95" y="224" font-size="13" font-weight="700" fill="#10161C" text-anchor="middle" font-family="IBM Plex Mono, monospace">07:00</text><text x="95" y="240" font-size="10" fill="#8B948C" text-anchor="middle" font-weight="500" font-family="Source Sans 3, sans-serif">hemma</text><line x1="220" y1="194" x2="220" y2="206" stroke="#10161C" stroke-width="2.5"/><text x="220" y="224" font-size="13" font-weight="700" fill="#10161C" text-anchor="middle" font-family="IBM Plex Mono, monospace">11:00</text><text x="220" y="240" font-size="10" fill="#8B948C" text-anchor="middle" font-weight="500" font-family="Source Sans 3, sans-serif">skolan</text><line x1="395" y1="194" x2="395" y2="206" stroke="#10161C" stroke-width="2.5"/><text x="395" y="224" font-size="13" font-weight="700" fill="#10161C" text-anchor="middle" font-family="IBM Plex Mono, monospace">15:30</text><text x="395" y="240" font-size="10" fill="#8B948C" text-anchor="middle" font-weight="500" font-family="Source Sans 3, sans-serif">hemma</text><line x1="550" y1="194" x2="550" y2="206" stroke="#10161C" stroke-width="2.5"/><text x="550" y="224" font-size="13" font-weight="700" fill="#10161C" text-anchor="middle" font-family="IBM Plex Mono, monospace">17:30</text><text x="550" y="240" font-size="10" fill="#8B948C" text-anchor="middle" font-weight="500" font-family="Source Sans 3, sans-serif">träning</text><line x1="700" y1="194" x2="700" y2="206" stroke="#10161C" stroke-width="2.5"/><text x="700" y="224" font-size="13" font-weight="700" fill="#10161C" text-anchor="middle" font-family="IBM Plex Mono, monospace">19:30</text><text x="700" y="240" font-size="10" fill="#8B948C" text-anchor="middle" font-weight="500" font-family="Source Sans 3, sans-serif">hemma</text><rect x="470.0" y="110" width="160" height="28" rx="4" fill="#1B3A6B"/><text x="550" y="129" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">TRÄNING</text><rect x="36.0" y="84" width="118" height="72" rx="4" fill="#3E7D6E"/><text x="95" y="103" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">FRUKOST</text><text x="95" y="120" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">Gröt eller</text><text x="95" y="134" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">mackor + mjölk</text><rect x="161.0" y="84" width="118" height="72" rx="4" fill="#3E7D6E"/><text x="220" y="103" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">SKOLLUNCH</text><text x="220" y="120" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">Äter hen upp?</text><text x="220" y="134" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">Fråga faktiskt.</text><rect x="636.0" y="84" width="128" height="72" rx="4" fill="#3E7D6E"/><text x="700" y="103" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">MIDDAG</text><text x="700" y="120" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">Sent, men ändå.</text><text x="700" y="134" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">Även en liten.</text><path d="M510,170.5 Q519,182.2 516.48,188.05 A6.75,6.75 0 1 1 503.52,188.05 Q501,182.2 510,170.5 z" fill="#2F6DA8"/><path d="M550,170.5 Q559,182.2 556.48,188.05 A6.75,6.75 0 1 1 543.52,188.05 Q541,182.2 550,170.5 z" fill="#2F6DA8"/><path d="M590,170.5 Q599,182.2 596.48,188.05 A6.75,6.75 0 1 1 583.52,188.05 Q581,182.2 590,170.5 z" fill="#2F6DA8"/><text x="550" y="162" font-size="10.5" fill="#2F6DA8" text-anchor="middle" font-weight="600" font-family="Source Sans 3, sans-serif">flaska med</text><path d="M220,252 L220,260 L395,260 L395,252" fill="none" stroke="#C4302B" stroke-width="2.5"/><text x="307" y="278" font-size="12" fill="#C4302B" text-anchor="middle" font-weight="700" font-family="Source Sans 3, sans-serif">4,5 timmar utan mat</text><text x="307" y="295" font-size="10.5" fill="#C4302B" text-anchor="middle" font-weight="500" font-family="Source Sans 3, sans-serif">efter skollunchen</text><rect x="470" y="252" width="210" height="96" rx="5" fill="#A85B2B"/><text x="575" y="276" font-size="15" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.6">MELLANMÅLET</text><text x="575" y="298" font-size="11.5" fill="#fff" text-anchor="middle" font-family="Source Sans 3, sans-serif">Macka med ost och mjölk.</text><text x="575" y="314" font-size="11.5" fill="#fff" text-anchor="middle" font-family="Source Sans 3, sans-serif">Fil, yoghurt, gröt. Frukt.</text><text x="575" y="330" font-size="11.5" fill="#fff" text-anchor="middle" font-family="Source Sans 3, sans-serif">Rejält — inte en frukt.</text><path d="M395,264 L462,290" stroke="#A85B2B" stroke-width="2.5" marker-end="url(#arc)"/><text x="400" y="378" font-size="13.5" fill="#10161C" text-anchor="middle" font-weight="700" font-family="Source Sans 3, sans-serif">Mellanmålet är träningsdagens viktigaste måltid.</text><text x="400" y="398" font-size="11" fill="#3E7D6E" text-anchor="middle" font-weight="600" font-family="Source Sans 3, sans-serif">Utan det kommer de tomma till 17:30 — och det syns på sista halvtimmen.</text></svg></div>
+
+<div class="two">
+<div class="call"><h4>Mellanmålet ska vara ett mål, inte en frukt</h4>
+<p>En banan räcker inte till ett barn som ska träna i nittio minuter. Macka med ost eller
+smör och pålägg, fil eller yoghurt med flingor, gröt, en smörgås till. Plus frukt om de vill.</p>
+<p>Praktiskt: ha det klart hemma, eller skicka med i väskan om barnet går på fritids.</p></div>
+<div class="call"><h4>Middagen blir sen — och det är okej</h4>
+<p>Hemma vid 19:15, mat vid halv åtta. Det är senare än man vill, men det fungerar
+förutsatt att mellanmålet var ordentligt.</p>
+<p>Är barnet för trött för att äta: en macka, ett glas mjölk, lite fil. Något är alltid
+bättre än inget.</p></div>
+</div>
+
+<div class="call"><h4>Frågan som säger mest</h4>
+<p>Fråga barnet <b>om det åt upp skollunchen</b>, inte om det åt lunch. Många barn äter
+väldigt lite i skolmatsalen — det är stökigt, kort om tid, eller så var det något de inte
+gillade. Ett barn som inte åt lunch och inte fick mellanmål har i praktiken varit utan
+mat sedan frukosten.</p></div>
+</section>
+
+<section id="cup"><div class="shead"><span class="num">03</span><h2>Cupdagen</h2></div>
+<p class="lede">Tre till fyra matcher à tjugo minuter, utspridda över en dag. Den svåraste
+situationen — inte för att det är avancerat, utan för att dagen är lång och det är lätt
+att ingen äter ordentligt.</p>
+<div class="fig"><svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" role="img" class="dgm"><defs><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#10161C"/></marker><marker id="arc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#A85B2B"/></marker><marker id="arb" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#1B3A6B"/></marker></defs><text x="400" y="26" font-size="19" fill="#10161C" text-anchor="middle" font-weight="700" font-family="Source Sans 3, sans-serif">CUPDAGEN</text><text x="400" y="46" font-size="12" fill="#3E7D6E" text-anchor="middle" font-weight="600" font-family="Source Sans 3, sans-serif">3–4 matcher à 20 minuter</text><line x1="50" y1="210" x2="760" y2="210" stroke="#10161C" stroke-width="2.5"/><line x1="95" y1="204" x2="95" y2="216" stroke="#10161C" stroke-width="2.5"/><text x="95" y="234" font-size="13" font-weight="700" fill="#10161C" text-anchor="middle" font-family="IBM Plex Mono, monospace">08:00</text><text x="95" y="250" font-size="10" fill="#8B948C" text-anchor="middle" font-weight="500" font-family="Source Sans 3, sans-serif">hemma</text><line x1="215" y1="204" x2="215" y2="216" stroke="#10161C" stroke-width="2.5"/><text x="215" y="234" font-size="13" font-weight="700" fill="#10161C" text-anchor="middle" font-family="IBM Plex Mono, monospace">09:30</text><text x="215" y="250" font-size="10" fill="#8B948C" text-anchor="middle" font-weight="500" font-family="Source Sans 3, sans-serif">första match</text><line x1="330" y1="204" x2="330" y2="216" stroke="#10161C" stroke-width="2.5"/><text x="330" y="234" font-size="13" font-weight="700" fill="#10161C" text-anchor="middle" font-family="IBM Plex Mono, monospace">10:30</text><line x1="445" y1="204" x2="445" y2="216" stroke="#10161C" stroke-width="2.5"/><text x="445" y="234" font-size="13" font-weight="700" fill="#10161C" text-anchor="middle" font-family="IBM Plex Mono, monospace">11:45</text><line x1="560" y1="204" x2="560" y2="216" stroke="#10161C" stroke-width="2.5"/><text x="560" y="234" font-size="13" font-weight="700" fill="#10161C" text-anchor="middle" font-family="IBM Plex Mono, monospace">13:00</text><text x="560" y="250" font-size="10" fill="#8B948C" text-anchor="middle" font-weight="500" font-family="Source Sans 3, sans-serif">sista match</text><line x1="700" y1="204" x2="700" y2="216" stroke="#10161C" stroke-width="2.5"/><text x="700" y="234" font-size="13" font-weight="700" fill="#10161C" text-anchor="middle" font-family="IBM Plex Mono, monospace">14:30</text><text x="700" y="250" font-size="10" fill="#8B948C" text-anchor="middle" font-weight="500" font-family="Source Sans 3, sans-serif">hemma</text><rect x="167.0" y="114" width="96" height="30" rx="4" fill="#1B3A6B"/><text x="215" y="133" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">MATCH</text><rect x="282.0" y="114" width="96" height="30" rx="4" fill="#1B3A6B"/><text x="330" y="133" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">MATCH</text><rect x="397.0" y="114" width="96" height="30" rx="4" fill="#1B3A6B"/><text x="445" y="133" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">MATCH</text><rect x="512.0" y="114" width="96" height="30" rx="4" fill="#1B3A6B"/><text x="560" y="133" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">MATCH</text><rect x="27.0" y="92" width="132" height="74" rx="4" fill="#3E7D6E"/><text x="93" y="111" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">REJÄL FRUKOST</text><text x="93" y="128" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">Gröt, mackor, fil</text><text x="93" y="142" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">2–3 tim före</text><rect x="634.0" y="92" width="132" height="74" rx="4" fill="#3E7D6E"/><text x="700" y="111" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">VANLIG MIDDAG</text><text x="700" y="128" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">Inget särskilt.</text><text x="700" y="142" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">Bara ordentligt.</text><rect x="224.0" y="272" width="96" height="56" rx="4" fill="#B8892B"/><text x="272" y="291" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">LITET</text><text x="272" y="308" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">banan · macka</text><text x="272" y="322" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">russin</text><rect x="339.0" y="272" width="96" height="56" rx="4" fill="#B8892B"/><text x="387" y="291" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">LITET</text><text x="387" y="308" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">banan · macka</text><text x="387" y="322" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">russin</text><rect x="454.0" y="272" width="96" height="56" rx="4" fill="#B8892B"/><text x="502" y="291" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">LITET</text><text x="502" y="308" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">banan · macka</text><text x="502" y="322" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">russin</text><text x="387" y="350" font-size="12" fill="#10161C" text-anchor="middle" font-weight="600" font-family="Source Sans 3, sans-serif">Små påfyllningar mellan matcherna — aldrig en stor lunch mitt i dagen.</text><text x="387" y="370" font-size="11" fill="#C4302B" text-anchor="middle" font-weight="600" font-family="Source Sans 3, sans-serif">Full mage + 20 minuters match = ont i magen.</text><path d="M215,182.5 Q224,194.2 221.48,200.05 A6.75,6.75 0 1 1 208.52,200.05 Q206,194.2 215,182.5 z" fill="#2F6DA8"/><path d="M272,182.5 Q281,194.2 278.48,200.05 A6.75,6.75 0 1 1 265.52,200.05 Q263,194.2 272,182.5 z" fill="#2F6DA8"/><path d="M330,182.5 Q339,194.2 336.48,200.05 A6.75,6.75 0 1 1 323.52,200.05 Q321,194.2 330,182.5 z" fill="#2F6DA8"/><path d="M387,182.5 Q396,194.2 393.48,200.05 A6.75,6.75 0 1 1 380.52,200.05 Q378,194.2 387,182.5 z" fill="#2F6DA8"/><path d="M445,182.5 Q454,194.2 451.48,200.05 A6.75,6.75 0 1 1 438.52,200.05 Q436,194.2 445,182.5 z" fill="#2F6DA8"/><path d="M502,182.5 Q511,194.2 508.48,200.05 A6.75,6.75 0 1 1 495.52,200.05 Q493,194.2 502,182.5 z" fill="#2F6DA8"/><path d="M560,182.5 Q569,194.2 566.48,200.05 A6.75,6.75 0 1 1 553.52,200.05 Q551,194.2 560,182.5 z" fill="#2F6DA8"/><text x="388" y="170" font-size="11" fill="#2F6DA8" text-anchor="middle" font-weight="600" font-family="Source Sans 3, sans-serif">vatten vid varje avbrott</text><text x="387" y="388" font-size="12" fill="#A85B2B" text-anchor="middle" font-weight="600" font-family="Source Sans 3, sans-serif">Ta med egen matsäck. Räkna inte med kiosken.</text></svg></div>
+
+<div class="call"><h4>Regeln för cupdagen: smått och ofta</h4>
+<p>Tjugo minuters match kräver ingenting särskilt under tiden. Det som behövs är att
+barnet inte blir tommare för varje match. Alltså: <b>små påfyllningar mellan matcherna
+i stället för en stor lunch mitt på dagen.</b></p>
+<p>En stor måltid en timme före avspark ger ont i magen. En hel dag utan mat ger ett barn
+som är gnälligt, okoncentrerat och tråkigt att vara med redan i match tre. Mitten emellan
+är banan, mackan och russinen.</p></div>
+
+<div class="fig"><svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" role="img" class="dgm"><defs><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#10161C"/></marker><marker id="arc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#A85B2B"/></marker><marker id="arb" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#1B3A6B"/></marker></defs><text x="400" y="28" font-size="17" fill="#10161C" text-anchor="middle" font-weight="700" font-family="Source Sans 3, sans-serif">MATSÄCKEN TILL CUPEN</text><rect x="58" y="52" width="164" height="30" rx="4" fill="#3E7D6E"/><text x="140" y="72" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.6">PÅFYLLNING</text><circle cx="76" cy="102" r="3.5" fill="#3E7D6E"/><text x="88" y="106" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">Bananer</text><circle cx="76" cy="125" r="3.5" fill="#3E7D6E"/><text x="88" y="129" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">Mackor med ost</text><circle cx="76" cy="148" r="3.5" fill="#3E7D6E"/><text x="88" y="152" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">Russin</text><circle cx="76" cy="171" r="3.5" fill="#3E7D6E"/><text x="88" y="175" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">Kex</text><circle cx="76" cy="194" r="3.5" fill="#3E7D6E"/><text x="88" y="198" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">Torkad frukt</text><rect x="248" y="52" width="164" height="30" rx="4" fill="#2F6DA8"/><text x="330" y="72" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.6">DRYCK</text><circle cx="266" cy="102" r="3.5" fill="#2F6DA8"/><text x="278" y="106" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">Vatten, mycket</text><circle cx="266" cy="125" r="3.5" fill="#2F6DA8"/><text x="278" y="129" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">Extra flaska</text><circle cx="266" cy="148" r="3.5" fill="#2F6DA8"/><text x="278" y="152" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">Mjölk till maten</text><circle cx="266" cy="171" r="3.5" fill="#2F6DA8"/><text x="278" y="175" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">— inget mer</text><rect x="438" y="52" width="164" height="30" rx="4" fill="#B8892B"/><text x="520" y="72" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.6">OM DET ÄR LÅNGT</text><circle cx="456" cy="102" r="3.5" fill="#B8892B"/><text x="468" y="106" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">Pastasallad</text><circle cx="456" cy="125" r="3.5" fill="#B8892B"/><text x="468" y="129" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">Matlåda</text><circle cx="456" cy="148" r="3.5" fill="#B8892B"/><text x="468" y="152" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">Smörgås med</text><circle cx="456" cy="171" r="3.5" fill="#B8892B"/><text x="468" y="175" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">något matigt</text><rect x="618" y="52" width="164" height="30" rx="4" fill="#C4302B"/><text x="700" y="72" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.6">LÅT BLI</text><circle cx="636" cy="102" r="3.5" fill="#C4302B"/><text x="648" y="106" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">Sportdryck</text><circle cx="636" cy="125" r="3.5" fill="#C4302B"/><text x="648" y="129" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">Energidryck</text><circle cx="636" cy="148" r="3.5" fill="#C4302B"/><text x="648" y="152" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">Godis i stället</text><circle cx="636" cy="171" r="3.5" fill="#C4302B"/><text x="648" y="175" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">för mat</text><circle cx="636" cy="194" r="3.5" fill="#C4302B"/><text x="648" y="198" font-size="11.5" fill="#10161C" text-anchor="start" font-weight="500" font-family="Source Sans 3, sans-serif">Något nytt</text><text x="400" y="258" font-size="12" fill="#10161C" text-anchor="middle" font-weight="600" font-family="Source Sans 3, sans-serif">Godis på cupen är inte problemet. Godis i STÄLLET för mat är problemet.</text><text x="400" y="278" font-size="11" fill="#3E7D6E" text-anchor="middle" font-weight="600" font-family="Source Sans 3, sans-serif">En cup är ett kalas. Låt det vara ett kalas — men se till att de äter riktig mat också.</text></svg></div>
+
+<div class="call"><h4>Om godiset</h4>
+<p>En cup är ett kalas. Det ska den få vara, och godis är inte problemet.</p>
+<p>Problemet är godis <b>i stället för</b> mat — vilket är precis vad som händer när ingen
+tagit med något annat och kiosken är det enda alternativet. Ta med egen matsäck, så löser
+det sig av sig självt.</p></div>
+</section>
+
+<section id="match"><div class="shead"><span class="num">04</span><h2>Matchdagen — nästa år</h2></div>
+<p class="lede">Från 7 mot 7 blir det oftast en match per dag i stället för fyra.
+Det gör saken enklare, inte svårare.</p>
+<div class="fig"><svg viewBox="0 0 800 380" xmlns="http://www.w3.org/2000/svg" role="img" class="dgm"><defs><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#10161C"/></marker><marker id="arc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#A85B2B"/></marker><marker id="arb" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#1B3A6B"/></marker></defs><text x="400" y="26" font-size="19" fill="#10161C" text-anchor="middle" font-weight="700" font-family="Source Sans 3, sans-serif">MATCHDAGEN</text><text x="400" y="46" font-size="12" fill="#3E7D6E" text-anchor="middle" font-weight="600" font-family="Source Sans 3, sans-serif">Nästa år: 7 mot 7, en match per dag</text><line x1="50" y1="190" x2="760" y2="190" stroke="#10161C" stroke-width="2.5"/><line x1="110" y1="184" x2="110" y2="196" stroke="#10161C" stroke-width="2.5"/><text x="110" y="214" font-size="13" font-weight="700" fill="#10161C" text-anchor="middle" font-family="IBM Plex Mono, monospace">3 tim före</text><text x="110" y="230" font-size="10" fill="#8B948C" text-anchor="middle" font-weight="500" font-family="Source Sans 3, sans-serif">huvudmål</text><line x1="310" y1="184" x2="310" y2="196" stroke="#10161C" stroke-width="2.5"/><text x="310" y="214" font-size="13" font-weight="700" fill="#10161C" text-anchor="middle" font-family="IBM Plex Mono, monospace">1–1,5 tim före</text><text x="310" y="230" font-size="10" fill="#8B948C" text-anchor="middle" font-weight="500" font-family="Source Sans 3, sans-serif">litet</text><line x1="480" y1="184" x2="480" y2="196" stroke="#10161C" stroke-width="2.5"/><text x="480" y="214" font-size="13" font-weight="700" fill="#10161C" text-anchor="middle" font-family="IBM Plex Mono, monospace">AVSPARK</text><line x1="660" y1="184" x2="660" y2="196" stroke="#10161C" stroke-width="2.5"/><text x="660" y="214" font-size="13" font-weight="700" fill="#10161C" text-anchor="middle" font-family="IBM Plex Mono, monospace">efter</text><text x="660" y="230" font-size="10" fill="#8B948C" text-anchor="middle" font-weight="500" font-family="Source Sans 3, sans-serif">hemma</text><rect x="405.0" y="98" width="150" height="30" rx="4" fill="#1B3A6B"/><text x="480" y="117" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">MATCH</text><rect x="30.0" y="72" width="160" height="74" rx="4" fill="#3E7D6E"/><text x="110" y="91" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">HUVUDMÅL</text><text x="110" y="108" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">Pasta, ris, potatis.</text><text x="110" y="122" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">Det hen brukar äta.</text><rect x="235.0" y="72" width="150" height="74" rx="4" fill="#B8892B"/><text x="310" y="91" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">LITET</text><text x="310" y="108" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">Banan, macka,</text><text x="310" y="122" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">några russin.</text><rect x="585.0" y="72" width="150" height="74" rx="4" fill="#3E7D6E"/><text x="660" y="91" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle" font-family="Oswald, sans-serif" letter-spacing="0.5">VANLIG MAT</text><text x="660" y="108" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">Inget särskilt</text><text x="660" y="122" font-size="11" fill="#fff" opacity="0.92" text-anchor="middle" font-family="Source Sans 3, sans-serif">behövs.</text><text x="400" y="262" font-size="13" fill="#10161C" text-anchor="middle" font-weight="700" font-family="Source Sans 3, sans-serif">En topp i stället för många. Det är hela skillnaden mot cupdagen.</text><text x="400" y="284" font-size="11" fill="#3E7D6E" text-anchor="middle" font-weight="600" font-family="Source Sans 3, sans-serif">Matchen är kortare än en träning. Kroppen har redan det den behöver —</text><text x="400" y="302" font-size="11" fill="#3E7D6E" text-anchor="middle" font-weight="600" font-family="Source Sans 3, sans-serif">det handlar bara om att inte komma tom och inte komma proppmätt.</text><rect x="150" y="324" width="500" height="52" rx="4" fill="none" stroke="#C4302B" stroke-width="2.5"/><text x="400" y="346" font-size="12.5" fill="#C4302B" text-anchor="middle" font-weight="700" font-family="Source Sans 3, sans-serif">ALDRIG NÅGOT NYTT PÅ MATCHDAGEN</text><text x="400" y="364" font-size="10.5" fill="#10161C" text-anchor="middle" font-weight="600" font-family="Source Sans 3, sans-serif">Ny mat, ny dryck, nytt tillskott — testa på en träning först, aldrig före match.</text><path d="M420,162.5 Q429,174.2 426.48,180.05 A6.75,6.75 0 1 1 413.52,180.05 Q411,174.2 420,162.5 z" fill="#2F6DA8"/><path d="M480,162.5 Q489,174.2 486.48,180.05 A6.75,6.75 0 1 1 473.52,180.05 Q471,174.2 480,162.5 z" fill="#2F6DA8"/><path d="M540,162.5 Q549,174.2 546.48,180.05 A6.75,6.75 0 1 1 533.52,180.05 Q531,174.2 540,162.5 z" fill="#2F6DA8"/></svg></div>
+
+<div class="two">
+<div class="call"><h4>Vad som ändras från cupdagen</h4>
+<p>En topp i stället för många. Man behöver inte hushålla med energin över en hel dag —
+det räcker med ett ordentligt mål tre timmar före och något litet en timme före.</p>
+<p>Matchen är dessutom kortare än en träning. Kroppen har redan det den behöver.</p></div>
+<div class="call"><h4>Tidig avspark</h4>
+<p>Match klockan nio betyder inte att man ska upp klockan sex och äta. Ät frukost som vanligt,
+lite tidigare, och ta något litet på vägen. Sömn slår måltidstiming.</p></div>
+</div>
+</section>
+
+<section id="dryck"><div class="shead"><span class="num">05</span><h2>Dryck</h2></div>
+<p class="lede">Kortaste avsnittet i dokumentet, för att svaret är kort.</p>
+<div class="call"><h4>Vatten. Det är hela svaret.</h4>
+<p>Amerikanska barnläkarföreningen är tydlig: vatten ska vara barns huvudsakliga
+vätskekälla före, under och efter fysisk aktivitet. Sportdryck är i regel onödigt för barn
+i vanlig idrottsaktivitet, och avråds uttryckligen efter korta träningar och matcher.
+Tumregeln som brukar anges är att sportdryck kan ha en roll först vid aktivitet över en
+timme i stark värme — vilket inte beskriver en oktoberkväll i Åtvidaberg.</p>
+<p><b>Energidryck hör inte hemma i barns och ungdomars kost över huvud taget.</b>
+Det är inte en avvägning, det är ett nej.</p>
+<p>Mjölk till maten är bra. Saft och läsk är kalas, inte vätskeersättning.</p></div>
+
+<div class="call"><h4>Det verkliga problemet är inte vad de dricker</h4>
+<p>Det är att de inte dricker. Barn dricker sällan tillräckligt frivilligt under aktivitet,
+och att vara törstig är redan ett tecken på att man börjat bli uttorkad.</p>
+<p>Praktiskt för ledare: <b>lägg in en drickapaus i varje pass, även när ingen bett om det.</b>
+Fem sekunder efter varje station i karusellen räcker. På cupdagar: drick vid varje avbrott,
+inte bara efter matcherna.</p></div>
+</section>
+
+<section id="granser"><div class="shead"><span class="num">06</span><h2>Gränser — det som gäller alla vuxna runt laget</h2></div>
+<p class="lede">Den här delen är viktigare än allt annat i dokumentet. Den handlar inte om
+prestation utan om att inte göra skada.</p>
+
+<div class="call warn"><h4>Aldrig, av någon vuxen, i något sammanhang</h4>
+<p><b>Kommentera aldrig ett barns vikt, kropp eller kroppsform.</b> Inte uppmuntrande,
+inte skämtsamt, inte "bara som ett konstaterande". Inte till barnet, inte till en annan
+vuxen inom hörhåll.</p>
+<p><b>Begränsa aldrig ett barns mat för att förbättra prestation.</b> Nioåringar växer.
+Att äta för lite är ett långt större problem i den här åldern än att äta för mycket.</p>
+<p><b>Dela aldrig in mat i bra och dålig.</b> Mat är mat. Moraliserande språk kring
+mat i barnidrott hänger ihop med problem senare, och vinsten på planen är noll.</p>
+<p><b>Använd aldrig mat som belöning eller straff.</b> Inte glass för att man vann,
+inte indraget fika för att man skötte sig dåligt.</p></div>
+
+<div class="call"><h4>Om du som ledare blir orolig för ett barns ätande</h4>
+<p>Om ett barn regelbundet inte äter, pratar nedsättande om sin kropp, eller där något
+annat känns fel — <b>ta det inte med barnet.</b></p>
+<p>Ta ett lugnt, enskilt samtal med vårdnadshavare, formulerat som en observation
+och inte som en diagnos. Är oron större än så är rätt väg skolsköterska eller
+vårdcentral, inte fotbollsklubben. Vi är fotbollsledare och det är en gräns värd
+att hålla.</p></div>
+
+<div class="call"><h4>Vad vi faktiskt vill uppnå</h4>
+<p>Livsmedelsverket beskriver vårdnadshavarens uppdrag i två delar: att barnet får
+näringsriktig mat, och att barnet får bra matvanor och <b>matglädje</b>.</p>
+<p>Den andra delen är den vi som förening lättast förstör och sällan förbättrar.
+Ett barn som lämnar fotbollen med ett avslappnat förhållande till mat har fått
+något mer värt än några procents bättre uthållighet i en cup.</p></div>
+</section>
+
+<footer><p><b>Mat och dryck · Åtvidabergs FF · 07-matguide.html</b><br>
+Ledarnas version med bakgrund finns i 06-spelarna-och-vuxna.md.
+Åtaganden kring barns hälsa och bemötande i 06-spelarna-och-vuxna.md.</p>
+<p style="margin-top:14px">Underlag: Livsmedelsverkets kostråd för barn 2–17 år · American Academy of Pediatrics,
+klinisk rapport om sport- och energidrycker för barn och ungdomar · AAP:s riktlinjer om
+vätska och värme vid barnidrott.</p>
+<p style="margin-top:14px"><b>Det här är allmän vägledning för friska barn i lagidrott.
+Har ett barn en sjukdom, allergi, specialkost eller något annat som påverkar ätandet
+gäller det som sjukvården sagt — inte det här dokumentet.</b></p></footer>
+</div></body></html>

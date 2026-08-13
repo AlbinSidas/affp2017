@@ -1,0 +1,12 @@
+# Arbetsdokument — skrivna till oss själva, hör inte hemma i ett publikt repo
+_internt/
+
+# Verktygets lokala inställningar
+.claude/settings.local.json
+
+# Skräp
+__pycache__/
+*.pyc
+Thumbs.db
+desktop.ini
+.DS_Store
