@@ -62,7 +62,7 @@ Se <span class="mono">_bygg/symboler-och-id.md</span> för konventionerna.</p>
 {body}
 <footer><p><b>Övningsbank · Åtvidabergs FF · 03-ovningsbank.html</b><br>
 Symbolstandard i _bygg/symboler-och-id.md. Spelidé i 01-sa-spelar-vi.md.<br>
-Förslag på nya övningar lämnas till fotbollsutvecklaren. Nya ID tilldelas i november.</p></footer>
+Förslag på nya övningar lämnas till fotbollsutvecklaren. Nya ID tilldelas i november.</p><p style="margin-top:14px;padding-top:12px;border-top:1px solid var(--line)"><b>Skrivet av Albin Sidås</b>, tränare för P9 i Åtvidabergs FF. Materialet är hans eget och är <b>inte Åtvidabergs FF:s officiella träningsmaterial</b> — det uttalar sig inte för föreningen, och andra lag i ÅFF arbetar på sina sätt. Frågor eller något som behöver lyftas: <span class="mono">albinsidas@gmail.com</span></p></footer>
 </div></body></html>'''
 open('../03-ovningsbank.html','w',encoding='utf-8').write(HTML)
 print("bank:", len(HTML), "chars |", len(EX), "exercises")

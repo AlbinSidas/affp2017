@@ -556,10 +556,9 @@ Det här avsnittet står först av ett skäl. Ett dokument om positionsspel kan 
 i löptext hur många gånger som helst — spelarna hör ingenting av det. **De lär sig av vad
 som ger poäng.**
 
-Går man igenom övningarna nedan belönar de bredd, spelvändning, snabb omställning och att
-vinna bollen. Ingen av dem belönar den som går förbi en motståndare. Gör vi ingenting åt
-det har vi skrivit fyra varningar om att inte döda dribblingen, och sedan byggt tio
-övningar som gör precis det.
+Övningarna nedan belönar bredd, spelvändning, snabb omställning och att vinna bollen. Ett
+lag som bara får poäng för det blir ett lag som bara gör det. Modet måste ha ett pris i
+poängräkningen, annars försvinner det.
 
 Därför gäller följande i **alla** spelövningar, D och E, hela året:
 

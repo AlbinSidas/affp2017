@@ -93,6 +93,7 @@ build(
             'Systerdokument till <span class="mono">01-sa-spelar-vi.md</span>, som äger spelidén, '
             'och till lagpärmen, som äger passen. Byggs av <span class="mono">_bygg/doc.py</span> '
             'ur <span class="mono">09-positionsspel.md</span> — redigera aldrig html-filen.</p>'
+            '<p style="margin-top:14px;padding-top:12px;border-top:1px solid var(--line)"><b>Skrivet av Albin Sidås</b>, tränare för P9 i Åtvidabergs FF. Materialet är hans eget och är <b>inte Åtvidabergs FF:s officiella träningsmaterial</b> — det uttalar sig inte för föreningen, och andra lag i ÅFF arbetar på sina sätt. Frågor eller något som behöver lyftas: <span class="mono">albinsidas@gmail.com</span></p>'
             '<p style="margin-top:14px">Positionsspel är ett verktyg för att spelarna ska förstå '
             'spelet, aldrig ett skäl att sluta dribbla. Skyddsreglerna i '
             '<span class="mono">01-sa-spelar-vi.md</span> står över allt i det här dokumentet.</p>'),
@@ -110,6 +111,7 @@ build(
     footer=('<p><b>Till er hemma · P9 · Åtvidabergs FF</b><br>'
             'Gäller tills vi säger något annat och gås igenom på föräldramötet varje säsong. '
             'Har du en fråga om något som står här — ta den med oss direkt, hellre tidigt än sent.</p>'
+            '<p style="margin-top:14px;padding-top:12px;border-top:1px solid var(--line)"><b>Skrivet av Albin Sidås</b>, tränare för P9 i Åtvidabergs FF. Materialet är hans eget och är <b>inte Åtvidabergs FF:s officiella träningsmaterial</b> — det uttalar sig inte för föreningen, och andra lag i ÅFF arbetar på sina sätt. Frågor eller något som behöver lyftas: <span class="mono">albinsidas@gmail.com</span></p>'
             '<p style="margin-top:14px">Mat och dryck runt träning, match och cup står i '
             'matguiden, som är ett eget blad.</p>'),
 )

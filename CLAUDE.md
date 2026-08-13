@@ -36,6 +36,14 @@ _internt/                     working documents — gitignored, never published
 
 1. **No individual player names anywhere** — not even as examples in coaching dialogue.
    Use `[namn]`. Same for guardians, addresses, phone numbers and e-mail.
+
+   **One deliberate exception:** the author attribution and ÅFF disclaimer names
+   *Albin Sidås* and gives *albinsidas@gmail.com*. It appears in `README.md`, `LICENSE`,
+   `LASMIG.md`, `index.html` and the footer of every generated document. It exists so
+   nobody can read the material as an official club position, and so questions have
+   somewhere to go. **Do not strip it, and do not spread it further** — the coaching text
+   itself stays role-based (`huvudtränaren`, never a name), because a document written to
+   one named person dies with that person.
 2. **Nothing written to ourselves goes in the root.** Internal deliberation, review
    findings and work plans live in `_internt/`, which is gitignored.
 3. **Other clubs may fork this.** Prefer wording that generalises — a team can change

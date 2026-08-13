@@ -67,9 +67,17 @@ Extra svårighet ges som en utmärkelse, aldrig som ett straff, och alltid inom 
 ska stryka när tiden inte räcker: stryk en station, aldrig speltiden. Spelförståelse
 byggs i spel, och den delen av passet är den enda som tränar allt samtidigt.
 
-**På torsdagarna är två stationer normalläget**, inte nödlösningen. Sextio minuter med
-tretton spelare räcker inte till tre stationer utan att övergångarna äter upp vinsten.
-Två stationer om nio minuter, och resten spel.
+**På torsdagarna kör vi tre stationer om sex minuter.** Truppen har vuxit till omkring
+sjutton på torsdagarna, och med två stationer blir grupperna för stora — åtta eller nio
+barn på en station betyder kö, och kö är det enda vi aldrig accepterar.
+
+Tre stationer ger fem till sex per station och en ledare vid varje.
+
+**Passet avslutas med G4: 5 mot 5 plus en sidostation.** Tio spelare på banan, sju vid
+sidan med en egen övning, och rotation var sjätte minut. Det är enda sättet att få
+sjutton barn att spela femmannafotboll på en femmannaplan utan att sju av dem står still.
+
+Sidogruppen är aldrig en bänk. Den ska ha **fler** bollkontakter än de som spelar just då.
 
 ---
 
@@ -111,8 +119,9 @@ Det betyder att varje ledare bara behöver kunna **en** övning per pass, inte f
 
 **Rollen roterar inte.** Passets ramar ska se likadana ut varje vecka, och någon måste äga helheten medan de andra äger var sin station. Det är också det som gör att övriga ledare kan komma direkt till sin station och göra sin övning bra i stället för att hålla reda på klockan. Det är en lättnad, inte en degradering.
 
-**Är vi bara två den kvällen:** kör två stationer om 9–10 minuter i stället för tre om sju.
-Det är också torsdagens normalupplägg oavsett hur många ledare som är där.
+**Är vi bara två den kvällen:** kör två stationer om 9–10 minuter i stället för tre om sju,
+och lägg G4:s sidostation som en självgående övning — A2, B2 eller C3 klarar sig utan ledare
+i sex minuter.
 
 ### Utmaningsnivåer — så blir nivåanpassningen något som faktiskt händer
 
@@ -191,7 +200,7 @@ Varje pass avslutas med spel på största möjliga yta — **G3, 7 mot 7 med må
 
 Det fyller tre funktioner samtidigt: spelarna längtar efter det och det fungerar därför bäst som avslutning, det förbereder matcher och cuper, och det är förberedelsen för nästa spelform. Numren är desamma som i den mindre spelformen, så en sexa är en sexa oavsett planstorlek.
 
-**Från och med i höst har den slotten ett datum att leverera mot.** Träningsmatchen i 7 mot 7 spelas 26 september och cupen 10–11 oktober, så G3 följer en trappa i stället för att vara samma sak varje vecka: fritt spel till 27 augusti, numren från 1 september, formen 2-3-1 från 15 september, bredden och sexan från 29 september. Trappan står i säsongsplanen, pass för pass.
+**G3 följer en trappa fram till matcherna:** fritt spel till 27 augusti, numren från 1 september, formen 2-3-1 från 15 september, bredden och sexan från 29 september. Trappan står i säsongsplanen, pass för pass.
 
 **Tre coachpunkter, inte fler:** håll bredden (7 och 11 ute vid linjen), sexan bakom bollen, målvakten spelar ut. Säg dem före, säg ingenting under, säg dem igen efter.
 

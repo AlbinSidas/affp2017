@@ -33,7 +33,7 @@ def card(href, kicker, title, text, meta):
 
 TRANARE = [
     card('LAGPARMEN.html', 'Allt i ett', 'Lagpärmen',
-         'Spelidé, passets uppbyggnad, årshjulet, 41 övningar med bild, 26 färdiga pass '
+         'Spelidé, passets uppbyggnad, årshjulet, 42 övningar med bild, 26 färdiga pass '
          'och hur vi mäter om träningen fungerar. Hela tränarmaterialet i ett dokument.',
          'Webb · även som PDF'),
     card('09-positionsspel.html', 'Utbildning', 'Positionsspelet',
@@ -41,7 +41,7 @@ TRANARE = [
          'tio övningar och en färdighetstrappa.',
          'Webb · även som PDF'),
     card('03-ovningsbank.html', 'Referens', 'Övningsbanken',
-         '41 övningar med diagram, uppställning, coachpunkter och nivåanpassning. '
+         '42 övningar med diagram, uppställning, coachpunkter och nivåanpassning. '
          'Varje övning har ett ID som betyder samma sak för alltid.',
          'Webb'),
     card('04-sasongsplan-host-2026.html', 'Säsong', 'Säsongsplanen',
@@ -175,6 +175,17 @@ Bygger på Svenska Fotbollförbundets spelarutbildningsplan och <i>Fotbollens sp
 lär</i>, samt FIFA 11+ Kids.<br>
 Sidorna byggs ur källfilerna med <span class="mono">_bygg/bygg-allt.py</span>. Redigera
 aldrig en genererad fil för hand.</p>
+<div class="call" style="margin-top:6px"><h4>Vem som står bakom materialet</h4>
+<p>Materialet är skrivet och ägs av <b>Albin Sidås</b>, tränare för P9 i Åtvidabergs FF.</p>
+<p><b>Det här är inte Åtvidabergs FF:s officiella träningsmaterial.</b> Det uttalar sig inte
+för föreningen, för styrelsen eller för andra lag. Andra lag i ÅFF arbetar på sina sätt, och
+ingenting här ska läsas som att klubben tillämpar eller har godkänt det som står här.</p>
+<p>Det beskriver hur <b>ett</b> lag har valt att arbeta. Det är skrivet för att rymmas innanför
+Svenska Fotbollförbundets riktlinjer för barnfotboll — men urvalet, tolkningarna och
+avvägningarna är mina egna, och jag svarar för dem.</p>
+<p>Frågor, invändningar eller något som behöver lyftas — hör av dig direkt:
+<b><span class="mono">albinsidas@gmail.com</span></b></p></div>
+
 <p style="margin-top:14px">Träningen finns för att spelarna ska bli bättre på fotboll.
 I barnfotbollen räknas ingen tabell, alla spelar ungefär lika mycket, alla provar flera
 positioner, och ett dribblingsförsök är aldrig ett misstag.</p>

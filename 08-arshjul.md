@@ -195,9 +195,9 @@ Nu fastställt. Fem match- och cupdagar, varav två i 7 mot 7.
 det som hände. En enda fråga räcker som uppföljning — *vem provade något?* — och den
 ställs i början av passet, aldrig som en genomgång av resultatet.
 
-**7 mot 7 kom ett år tidigare än planen räknade med.** Det hanteras i G3-slotten sist i
-varje pass, som fått en trappa fram till matcherna i stället för att vara samma sak varje
-vecka. Blocken A, B och C ligger kvar orörda. Se säsongsplanen och `09-positionsspel.md`.
+**Förberedelsen för 7 mot 7 ligger i G3-slotten sist i varje pass**, som följer en trappa
+fram till matcherna. Blocken A, B och C ligger kvar orörda. Se säsongsplanen och
+`09-positionsspel.md`.
 
 *Vårens datum för serie och sammandrag fylls i här när spelschemat kommer.*
 
@@ -213,7 +213,7 @@ Fem punkter, samma varje gång:
 4. **Vuxnas beteende.** Ingen coachning från sidlinjen. I bilen hem leder barnet samtalet.
 5. **Mellanmålet.** En gång per säsong, det enda kostbudskapet vi driver.
 
-Punkt två är ny och den är den som är värd att formulera noga. Den läggs fram som en ambition för barnens skull, inte som ett krav på dem.
+Punkt två är den som är värd att formulera noga. Den läggs fram som en ambition för barnens skull, inte som ett krav på dem.
 
 ---
 

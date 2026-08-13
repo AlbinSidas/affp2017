@@ -23,7 +23,7 @@ Behöver du bara *ett* — läs `LAGPARMEN.html`. Där ligger allt nedanstående
 |---|---|---|
 | **01-sa-spelar-vi.md** | BOLL · MOD · PRESS. Spelarprofil, numren, formationstrappan. | En gång, i början. Sen som repetition. |
 | **02-sa-tranar-vi.md** | Passets uppbyggnad, karusellen, bemanning, blicken, vad vi lär ut. | Innan säsongsstart, och när något känns fel. |
-| **03-ovningsbank.html** | 41 övningar med bild, uppställning och coachpunkter. | Före varje pass — bara din egen station. |
+| **03-ovningsbank.html** | 42 övningar med bild, uppställning och coachpunkter. | Före varje pass — bara din egen station. |
 | **04-sasongsplan-host-2026.html** | 26 pass, augusti till oktober, med tidslinje. | Varje vecka. |
 | **05-matning-och-utveckling.md** | Hur vi vet om träningen fungerar. Test, observationer, tysta matchen. | Innan första testdagen. Viktig. |
 | **06-spelarna-och-vuxna.md** | Nivåanpassning, stök, eget barn, mat, gränser. | En gång ordentligt. Sen vid behov. |
@@ -127,7 +127,7 @@ Det är också rätt ordning. Ett arbetssätt som bevisligen fungerar med arton 
 
 **7 mot 7 kommer redan i höst.** Träningsmatch 26 september, cup 10–11 oktober. Numren är desamma, formationen blir 2-3-1, och det enda verkligt nya är att sjuan och elvan ska hålla bredden.
 
-Därför spelar vi tio till femton minuter på hel plan i slutet av varje pass — och den slotten följer nu en trappa fram till matcherna i stället för att vara samma sak varje vecka. Se `09-positionsspel.md` och säsongsplanen. Steget ska kännas som mer av samma sak.
+Därför spelar vi tio till femton minuter på hel plan i slutet av varje pass, och den slotten följer en trappa fram till matcherna. Se `09-positionsspel.md` och säsongsplanen. Steget ska kännas som mer av samma sak.
 
 Däremellan ligger vintern, och i år tränar vi ute på konstgräs — ett pass i veckan, med kallelse, november till februari. Det är en riktig träningsperiod och ingen paus. Se `08-arshjul.md`.
 
@@ -135,4 +135,14 @@ Vårens plan skrivs i februari med `MALL-sasongsplan.md`.
 
 ---
 
-*Version 3.1 · augusti 2026 · lagnivå*
+## Vem som står bakom det här
+
+Materialet är skrivet och ägs av **Albin Sidås**, tränare för laget. Det är **inte
+Åtvidabergs FF:s officiella träningsmaterial** och uttalar sig inte för föreningen — andra
+lag i ÅFF arbetar på sina sätt. Det beskriver hur det här laget har valt att arbeta.
+
+Frågor eller något som behöver lyftas: albinsidas@gmail.com
+
+---
+
+*Version 3.2 · augusti 2026 · lagnivå*

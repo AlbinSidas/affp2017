@@ -130,6 +130,7 @@ FIFA 11+ Kids samt klubbens spelidé.</p>
 <p style="margin-top:14px">Träningen finns för att spelarna ska bli bättre på fotboll.
 I barnfotbollen räknas ingen tabell, alla spelar ungefär lika mycket, alla provar alla
 positioner, och ett dribblingsförsök är aldrig ett misstag.</p>
+<p style="margin-top:14px;padding-top:12px;border-top:1px solid var(--line)"><b>Skrivet av Albin Sidås</b>, tränare för P9 i Åtvidabergs FF. Materialet är hans eget och är <b>inte Åtvidabergs FF:s officiella träningsmaterial</b> — det uttalar sig inte för föreningen, och andra lag i ÅFF arbetar på sina sätt. Frågor eller något som behöver lyftas: <span class="mono">albinsidas@gmail.com</span></p>
 <p style="margin-top:14px">Systerdokument med egna PDF:er:
 <span class="mono">09-positionsspel.md</span> (positionsspel från 7 mot 7),
 <span class="mono">10-till-er-hemma.md</span> (till vårdnadshavare) och

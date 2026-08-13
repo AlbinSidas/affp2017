@@ -195,6 +195,7 @@ Ledarnas version med bakgrund finns i 06-spelarna-och-vuxna.md.
 <p style="margin-top:14px">Underlag: Livsmedelsverkets kostråd för barn 2–17 år · American Academy of Pediatrics,
 klinisk rapport om sport- och energidrycker för barn och ungdomar · AAP:s riktlinjer om
 vätska och värme vid barnidrott.</p>
+<p style="margin-top:14px;padding-top:12px;border-top:1px solid var(--line)"><b>Skrivet av Albin Sidås</b>, tränare för P9 i Åtvidabergs FF. Materialet är hans eget och är <b>inte Åtvidabergs FF:s officiella träningsmaterial</b> — det uttalar sig inte för föreningen, och andra lag i ÅFF arbetar på sina sätt. Frågor eller något som behöver lyftas: <span class="mono">albinsidas@gmail.com</span></p>
 <p style="margin-top:14px"><b>Det här är allmän vägledning för friska barn i lagidrott.
 Har ett barn en sjukdom, allergi, specialkost eller något annat som påverkar ätandet
 gäller det som sjukvården sagt — inte det här dokumentet.</b></p></footer>

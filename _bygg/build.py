@@ -352,6 +352,16 @@ EX = [
   "Låt samma person visa under hela testet så att timingen blir lika för alla."],
  "Ingen."),
 
+("G4","5 mot 5 med sidostation","SPEL","5-mot-5-planen + yta bredvid","20–25 min",
+ "En bana för 5 mot 5 med målvakter, och en yta bredvid för den tredje gruppen. Sätt båda innan passet börjar.",
+ "Sjutton spelare blir tio på banan och sju vid sidan. Sidogruppen kör en övning ur kvällens tema. Rotera var sjätte minut: sidogruppen går in och ett av lagen går ut. Alla spelar ungefär lika mycket över passet.",
+ ["Tre grupper, inte två. Med sjutton spelare på en 5-mot-5-plan blir ett enda stort spel en klunga där halva truppen aldrig rör bollen.",
+  "Sidostationen är ingen bänk. Välj en övning med hög bollkontaktvolym — A2, B2 eller C3 fungerar alltid — så att den gruppen får FLER touchar än de som spelar, inte färre.",
+  "Rotera på klockan, inte på känsla. Ropa bytet högt och byt hela grupper, aldrig enskilda spelare.",
+  "Håll rotationen tajt. Sex minuter känns kort och är rätt — det är väntan mellan omgångarna som dödar ett pass.",
+  "En ledare vid spelet, en vid sidostationen. Är ni tre tar den tredje observationen, se 05-matning-och-utveckling.md."],
+ "Är ni bara tretton den kvällen: 4 mot 4 på banan och fem vid sidan, samma rotation. Är ni över tjugo: två banor och en sidogrupp."),
+
 ("TRK","Så delar du tisdagsplanen","GRUND","7-mot-7-planen","—",
  "Dela planen i tre banor med koner innan någon kommer.",
  "18 spelare = tre banor à 3 mot 3. Ingen står still, ingen väntar. Öppna aldrig hela ytan förrän sista kvarten.",
@@ -417,9 +427,8 @@ S.append(tue(3,"18 aug","A","TESTDAG 1 — utgångsläge",
 
 S.append(thu(3,"20 aug","A","Volym",
  [("0:00","ANK","Ankomst"),("0:10","11+","Kort uppvärmning"),
-  ("0:17","KAR","Två stationer:  A4 Hajar  ·  A2 Kungen av banan"),
-  ("0:35","G1","3 mot 3 på två banor, mållinjeregel"),
-  ("0:45","G3","7 mot 7 eller 6 mot 6 på största möjliga yta")],
+  ("0:17","KAR","Tre stationer:  A4 Hajar  ·  A2 Kungen av banan  ·  A3 Grindar"),
+  ("0:35","G4","5 mot 5 + sidostation: A3 Grindar med mållinjeregel. Rotera var sjätte minut.")],
  "Sista renodlade A-passet. Kolla grindsiffrorna mot vecka 1."))
 
 S.append(tue(4,"25 aug","A→B","Brygga: fintan introduceras",
@@ -432,9 +441,8 @@ S.append(tue(4,"25 aug","A→B","Brygga: fintan introduceras",
 
 S.append(thu(4,"27 aug","A→B","Brygga: bonuspoängen introduceras",
  [("0:00","ANK","Ankomst"),("0:10","11+","Kort uppvärmning"),
-  ("0:17","KAR","Två stationer:  A2 Kungen av banan  ·  B1 Fintstationen"),
-  ("0:35","B4","3 mot 3 med bonuspoäng — förklara på 20 sekunder"),
-  ("0:45","G3","7 mot 7 eller 6 mot 6 på största möjliga yta")],
+  ("0:17","KAR","Tre stationer:  A2 Kungen av banan  ·  B1 Fintstationen  ·  A3 Grindar"),
+  ("0:35","G4","5 mot 5 med bonuspoäng + sidostation: B1 Fintstationen. Förklara bonusen på 20 sekunder.")],
  "Bonuspoängen kommer nu och sitter kvar i sju veckor. CUP PÅ SÖNDAG: det är det enda nya idag, "
  "och den är värd att ta med sig dit — den belönar exakt det vi vill se i cupen."))
 
@@ -450,9 +458,8 @@ S.append(tue(5,"1 sep","B","1 mot 1 — introduktion",
 
 S.append(thu(5,"3 sep","B","Duellvolym",
  [("0:00","ANK","Ankomst"),("0:10","11+","Kort uppvärmning"),
-  ("0:17","KAR","Två stationer:  B2 1 mot 1 till två mål  ·  B1 Fintstationen"),
-  ("0:35","B4","3 mot 3 med bonuspoäng, två banor + joker"),
-  ("0:45","G3","7 mot 7 eller 6 mot 6 på största möjliga yta")],
+  ("0:17","KAR","Tre stationer:  B2 1 mot 1 till två mål  ·  B1 Fintstationen  ·  B3 Rullad boll"),
+  ("0:35","G4","5 mot 5 med bonuspoäng + sidostation: B2 1 mot 1. Rotera var sjätte minut.")],
  "Ren dueltäthet. Räkna högt varje gång någon får 3 poäng."))
 
 S.append(tue(6,"8 sep","B","TESTDAG 2 — halvtid",
@@ -466,9 +473,8 @@ S.append(tue(6,"8 sep","B","TESTDAG 2 — halvtid",
 
 S.append(thu(6,"10 sep","B","Egen finta",
  [("0:00","ANK","Ankomst"),("0:10","11+","Kort uppvärmning"),
-  ("0:17","KAR","Två stationer:  B1 Egen finta  ·  B2 1 mot 1 stege"),
-  ("0:37","G1","3 mot 3 med bonuspoäng, två banor"),
-  ("0:45","G3","7 mot 7 eller 6 mot 6 på största möjliga yta")],
+  ("0:17","KAR","Tre stationer:  B1 Egen finta  ·  B2 1 mot 1 stege  ·  B3 Rullad boll"),
+  ("0:35","G4","5 mot 5 med bonuspoäng + sidostation: B1 Egen finta. Rotera var sjätte minut.")],
  "Autonomi hela passet. De väljer, du räknar. CUP PÅ SÖNDAG: inget nytt, lätt pass, "
  "och sista 7-mot-7-spelet med numren innan formen införs på tisdag."))
 
@@ -484,9 +490,8 @@ S.append(tue(7,"15 sep","B","Kaos, beslut — och 2-3-1 införs",
 
 S.append(thu(7,"17 sep","B","Duellvolym",
  [("0:00","ANK","Ankomst"),("0:10","11+","Kort uppvärmning"),
-  ("0:17","KAR","Två stationer:  B5 Styra anfallaren  ·  B3 Rullad boll"),
-  ("0:35","B4","3 mot 3 med bonuspoäng"),
-  ("0:45","G3","7 mot 7 eller 6 mot 6 på största möjliga yta")],
+  ("0:17","KAR","Tre stationer:  B5 Styra anfallaren  ·  B3 Rullad boll  ·  B2 1 mot 1 till två mål"),
+  ("0:35","G4","5 mot 5 med bonuspoäng + sidostation: B3 Rullad boll. Rotera var sjätte minut.")],
  "Försvarsspelets enda pass i höst: kom nära, stå kvar på fötterna. Räkna även 1-mot-1-försök i en match."))
 
 S.append(tue(8,"22 sep","B→C","Brygga: titta före",
@@ -502,9 +507,9 @@ S.append(thu(8,"24 sep","B→C","GENERALREPETITION — 7 mot 7",
   ("0:17","KAR","EN station:  C1 Nummer bakom"),
   ("0:27","G3","7 mot 7 i 2-3-1 — resten av passet. Numren delas ut och roteras.")],
  "Träningsmatchen är om två dagar och det här är enda gången formen kan sättas innan dess. "
- "En station, inte två. Tre coachpunkter sagda FÖRE: håll bredden, sexan bakom bollen, "
- "målvakten spelar ut. Sedan tystnad. Är vi för få: 6 mot 6 med samma nummer — det är formen "
- "som ska sätta sig, inte antalet."))
+ "En station, inte tre. Tre coachpunkter sagda FÖRE: håll bredden, sexan bakom bollen, "
+ "målvakten spelar ut. Sedan tystnad. Med sjutton spelare blir det 7 mot 7 plus tre som "
+ "roterar in var tredje minut — byt hela positioner, inte enskilda spelare."))
 
 # ---- BLOCK C -------------------------------------------------------------
 S.append(tue(9,"29 sep","C","Första touchen",
@@ -519,9 +524,8 @@ S.append(tue(9,"29 sep","C","Första touchen",
 
 S.append(thu(9,"1 okt","C","Touchvolym",
  [("0:00","ANK","Ankomst"),("0:10","11+","Kort uppvärmning"),
-  ("0:17","KAR","Två stationer:  C2 Touch genom grind  ·  C1 Nummer bakom"),
-  ("0:35","C3","Fyra mål 3 mot 3, två banor + joker"),
-  ("0:45","G3","7 mot 7 eller 6 mot 6 på största möjliga yta")],
+  ("0:17","KAR","Tre stationer:  C2 Touch genom grind  ·  C1 Nummer bakom  ·  C4 Vänd och gå"),
+  ("0:35","G4","5 mot 5 + sidostation: C3 Fyra mål. Rotera var sjätte minut.")],
  "Båda fötterna. Flytta grinden till andra sidan hela tiden."))
 
 S.append(tue(10,"6 okt","C","Vända bort från press",
@@ -537,7 +541,8 @@ S.append(thu(10,"8 okt","C","GENERALREPETITION — inför cupen",
  [("0:00","ANK","Ankomst"),("0:10","11+","Kort uppvärmning"),
   ("0:17","KAR","EN station:  C5 Huvudet uppe"),
   ("0:27","G3","7 mot 7 i 2-3-1 — resten av passet. Bredden och sexan.")],
- "Tvådagarscupen är om två dagar. Samma upplägg som 24 sep: en station, sedan spel i formen. "
+ "Tvådagarscupen är om två dagar. Samma upplägg som 24 sep: en station, sedan spel i formen, "
+ "7 mot 7 plus tre som roterar in. "
  "De två svåraste sakerna är att sjuan och elvan håller bredden och att sexan inte springer "
  "förbi bollen — säg dem före, säg ingenting under. Prata också igenom cupdagen: mat, "
  "rotation av nummer, att alla spelar ungefär lika mycket."))
@@ -553,9 +558,8 @@ S.append(tue(11,"13 okt","C","Öppen kropp",
 
 S.append(thu(11,"15 okt","C","Volym",
  [("0:00","ANK","Ankomst"),("0:10","11+","Kort uppvärmning"),
-  ("0:17","KAR","Två stationer:  C6 Frågan före  ·  C5 Huvudet uppe"),
-  ("0:35","C3","Fyra mål"),
-  ("0:45","G3","7 mot 7 eller 6 mot 6 på största möjliga yta")],
+  ("0:17","KAR","Tre stationer:  C6 Frågan före  ·  C5 Huvudet uppe  ·  C2 Touch genom grind"),
+  ("0:35","G4","5 mot 5 + sidostation: C3 Fyra mål. Rotera var sjätte minut.")],
  "Sista renodlade C-passet."))
 
 S.append(tue(12,"20 okt","C","Allt tillsammans",
@@ -568,9 +572,8 @@ S.append(tue(12,"20 okt","C","Allt tillsammans",
 
 S.append(thu(12,"22 okt","C","Spelarnas val",
  [("0:00","ANK","Ankomst"),("0:10","11+","Kort uppvärmning"),
-  ("0:17","—","Spelarna väljer två övningar från hösten"),
-  ("0:35","G1","3 mot 3"),
-  ("0:45","G3","7 mot 7 eller 6 mot 6 på största möjliga yta")],
+  ("0:17","—","Spelarna väljer tre övningar från hösten, en per station"),
+  ("0:35","G4","5 mot 5 + sidostation: spelarnas val. Rotera var sjätte minut.")],
  "Låt dem välja. Du får veta vilka övningar som faktiskt landade."))
 
 S.append(tue(13,"27 okt","—","Fritt",
@@ -591,13 +594,12 @@ for i, s in enumerate(S):
     s['n'] = i + 1
 
 # --------------------------------------------------------------- 7-mot-7-trappan
-# Hösten fick ett spelprogram efter att planen skrivits: träningsmatch 7 mot 7 den
-# 26 september och tvådagarscup 10-11 oktober. G3-slotten sist i varje pass var tänkt
-# som ett långsamt dropp inför NÄSTA säsong och stod därför med samma mening 26 gånger.
-# Den har nu ett datum att leverera mot, så den får en progression i stället.
+# G3-slotten sist i varje pass är höstens löpande förberedelse inför träningsmatchen
+# i 7 mot 7 den 26 september och cupen 10-11 oktober. Den följer en trappa: fritt spel,
+# sedan numren, sedan formen, sedan bredden och sexan.
 #
 # Blocken A/B/C rörs inte — de är ryggraden. Hela 7-mot-7-förberedelsen ligger här.
-# P1-P3 är genomförda och lämnas som de var.
+# P1-P3 lämnas som de kördes.
 G3_TRAPPA = [
     (4,  8,  "7 mot 7 på största möjliga yta — bara spel, inga instruktioner"),
     (9,  12, "7 mot 7 — NUMREN: alla får ett nummer högt, roteras varje spel"),
@@ -981,9 +983,10 @@ ni andra kan gå direkt till er station och göra er övning bra i stället för
 <tr><th>Antal</th><th>Bästa format</th><th>Kommentar</th></tr>
 <tr><td class="mono">18</td><td>3 mot 3 på tre banor</td><td>Går jämnt ut. Ingen står still, ingen väntar. Det här är tisdagens grundformat.</td></tr>
 <tr><td class="mono">18</td><td>5 mot 5 + 4 mot 4, med målvakt</td><td>Sista kvarten på tisdagen. Två banor, riktiga eller konmål.</td></tr>
+<tr><td class="mono">17</td><td>Tre stationer à 5–6 spelare</td><td>Torsdagens karusell. En ledare per station, sex minuter, rotation medsols.</td></tr>
+<tr><td class="mono">17</td><td><b>5 mot 5 + sidostation</b> (G4)</td><td><b>Torsdagens avslutning.</b> Tio spelar, sju kör en övning bredvid, rotera var sjätte minut. Sidogruppen ska få fler bollkontakter än de som spelar.</td></tr>
 <tr><td class="mono">13</td><td>3 mot 3 på två banor + 1 joker</td><td>Jokern spelar med det lag som har bollen. Byt joker varannan minut — det är en eftertraktad roll, inte en reservplats.</td></tr>
-<tr><td class="mono">13</td><td>6 mot 6 med målvakt + 1 joker</td><td>Sista kvarten på torsdagen om ni vill ha ett större spel.</td></tr>
-<tr><td class="mono">13</td><td>4 mot 3 och 3 mot 3</td><td>Fungerar också. Niåringar bryr sig inte om ojämna lag.</td></tr>
+<tr><td class="mono">13</td><td>4 mot 4 + sidostation</td><td>G4 med mindre lag. Samma rotation.</td></tr>
 </table>
 
 <div class="call"><h4>Sätt grupperna på nytt varje vecka</h4>
@@ -1051,12 +1054,10 @@ men den är inte samma sak varje vecka längre, den följer en trappa fram till 
 <tr><td class="mono">10–11 okt</td><td><b>Cup, två dagar</b></td><td><b>7 mot 7</b></td><td><a href="#p20">P20</a> — generalrepetition</td></tr>
 </table>
 
-<div class="call"><h4>7 mot 7 kom tidigare än planen räknade med</h4>
-<p>Planen skrevs utifrån att 7 mot 7 väntade till nästa säsong. Med träningsmatch 26 september
-och cup 10–11 oktober är det i stället <b>sex veckor bort</b> när planen skrivs om.</p>
-<p><b>Blocken ändras inte för det.</b> A, B och C ligger kvar — ett tema behöver tre till fyra
-veckor och cuper är inget skäl att bryta det. Hela förberedelsen ligger i G3-slotten, som
-redan finns sist i vartenda pass:</p>
+<div class="call"><h4>Så förbereds 7 mot 7</h4>
+<p>Träningsmatchen spelas 26 september och cupen 10–11 oktober. <b>Blocken ändras inte för
+det.</b> A, B och C ligger kvar — ett tema behöver tre till fyra veckor och cuper är inget
+skäl att bryta det. Hela förberedelsen ligger i G3-slotten, som finns sist i vartenda pass:</p>
 <p><b>P4–P8</b> bara spel · <b>P9–P12</b> numren delas ut och roteras ·
 <b>P13–P16</b> formen 2-3-1 · <b>P17–P20</b> bredden och sexan · <b>P21–P26</b> låt det sitta.</p></div>
 
@@ -1203,7 +1204,7 @@ P9 · höst 2026 · lagpärmen. Bygger på 01-sa-spelar-vi.md och 02-sa-tranar-v
 Bygger på Svenska Fotbollförbundets spelarutbildningsplan och Fotbollens spela, lek och lär,
 FIFA 11+ Kids, samt klubbens spelidé. Systerdokument: 01-sa-spelar-vi.md, 02-sa-tranar-vi.md, 05-matning-och-utveckling.md.</p>
 <p style="margin-top:14px">I barnfotbollen räknas ingen tabell. Alla spelar ungefär lika mycket.
-Alla provar alla positioner. Ett dribblingsförsök är aldrig ett misstag.</p>
+Alla provar alla positioner. Ett dribblingsförsök är aldrig ett misstag.</p><p style="margin-top:14px;padding-top:12px;border-top:1px solid var(--line)"><b>Skrivet av Albin Sidås</b>, tränare för P9 i Åtvidabergs FF. Materialet är hans eget och är <b>inte Åtvidabergs FF:s officiella träningsmaterial</b> — det uttalar sig inte för föreningen, och andra lag i ÅFF arbetar på sina sätt. Frågor eller något som behöver lyftas: <span class="mono">albinsidas@gmail.com</span></p>
 </footer>
 
 </div></body></html>'''

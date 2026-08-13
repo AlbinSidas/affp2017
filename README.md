@@ -3,12 +3,34 @@
 **Träningsmaterialet för ett barnfotbollslag, öppet för vem som helst att läsa, använda och kopiera.**
 
 Det här är hela arbetssättet för ett lag med arton pojkar födda 2017 i Åtvidabergs FF:
-spelidén, hur passen byggs, 41 övningar med bild, en färdig säsongsplan, hur vi mäter om
+spelidén, hur passen byggs, 42 övningar med bild, en färdig säsongsplan, hur vi mäter om
 träningen fungerar, och vad vi lovar spelarna och deras familjer.
 
 Ingenting här är hemligt. Det är så vi vill arbeta, och det tål att läsas av vem som helst.
 
-**→ [Läs materialet](https://albinsidas.github.io/aff-p9/)** *(fyll i rätt adress när repot publicerats)*
+---
+
+## Vem som står bakom materialet
+
+Materialet är skrivet och ägs av **Albin Sidås**, tränare för P9 i Åtvidabergs FF.
+
+> **Det här är inte Åtvidabergs FF:s officiella träningsmaterial.**
+>
+> Det uttalar sig inte för föreningen, för styrelsen eller för andra lag. Andra lag i ÅFF
+> arbetar på sina sätt, och ingenting här ska läsas som att klubben tillämpar, har godkänt
+> eller står bakom det som står här.
+
+Det beskriver hur **ett** lag har valt att arbeta. Det är skrivet för att rymmas innanför
+Svenska Fotbollförbundets riktlinjer för barnfotboll och innanför föreningens värdegrund —
+men urvalet, tolkningarna och avvägningarna är mina egna, och jag svarar för dem.
+
+Föreningens namn förekommer för att beskriva vilket lag materialet skrevs för, inte som
+utgivare eller garant.
+
+**Frågor, invändningar eller något som behöver lyftas — hör av dig direkt:**
+[albinsidas@gmail.com](mailto:albinsidas@gmail.com)
+
+**→ [Läs materialet](https://albinsidas.github.io/affp2017/)** 
 
 ---
 
@@ -21,7 +43,7 @@ Ingenting här är hemligt. Det är så vi vill arbeta, och det tål att läsas 
 | [LASMIG.md](LASMIG.md) | **Börja här.** Kartan över allt annat. |
 | [01-sa-spelar-vi.md](01-sa-spelar-vi.md) | Spelidén. Grunderna som aldrig ändras, och vårt uttryck av dem. |
 | [02-sa-tranar-vi.md](02-sa-tranar-vi.md) | Vad träningen är till för, passets uppbyggnad, karusellen, förväntningar. |
-| [03-ovningsbank.html](03-ovningsbank.html) | 41 övningar med diagram, uppställning och coachpunkter. |
+| [03-ovningsbank.html](03-ovningsbank.html) | 42 övningar med diagram, uppställning och coachpunkter. |
 | [04-sasongsplan-host-2026.html](04-sasongsplan-host-2026.html) | 26 färdiga pass med tidslinje. |
 | [05-matning-och-utveckling.md](05-matning-och-utveckling.md) | Hur vi vet om träningen fungerar. |
 | [06-spelarna-och-vuxna.md](06-spelarna-och-vuxna.md) | Nivåanpassning, stök, eget barn, mat, gränser. Utfästelserna i §5 styr allt annat. |
@@ -44,7 +66,7 @@ Fyra PDF:er, byggda ur samma källor. Alla går att mejla som de är.
 | [Lagparmen.pdf](Lagparmen.pdf) | Tränare | ~97 sidor |
 | [Positionsspel.pdf](Positionsspel.pdf) | Tränare | ~27 sidor |
 | [Till-er-hemma.pdf](Till-er-hemma.pdf) | Vårdnadshavare | 7 sidor |
-| [Matguide.pdf](Matguide.pdf) | Vårdnadshavare | 8 sidor |
+| [Matguide.pdf](Matguide.pdf) | Vårdnadshavare | 9 sidor |
 
 ---
 

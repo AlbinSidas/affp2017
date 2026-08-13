@@ -8,7 +8,7 @@
 
 ## Spelidén har två lager
 
-Det här är dokumentets viktigaste sida, och den är ny.
+Det här är dokumentets viktigaste sida.
 
 En spelidé kan läras ut på två sätt. Man kan lära ut **hur vi spelar** — då blir spelaren
 bra i vårt lag. Eller så kan man lära ut **hur spelet fungerar** — då blir spelaren bra
@@ -299,8 +299,7 @@ Från **9 mot 9**: positionsrondo, samma övning med zoner så att spelarna mås
 
 ## 7 mot 7 — redan i höst
 
-**Träningsmatch i 7 mot 7 den 26 september. Cup i 7 mot 7 den 10–11 oktober.** Steget kom
-tidigare än planen räknade med, och det är inte ett problem — men det ska mötas med avsikt.
+**Träningsmatch i 7 mot 7 den 26 september. Cup i 7 mot 7 den 10–11 oktober.**
 
 Numren är desamma — en sexa är fortfarande en sexa. Det som tillkommer är att sjuan och
 elvan håller bredden ute vid linjerna, vilket är det svåraste för nioåringar eftersom de
