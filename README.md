@@ -1,6 +1,6 @@
 # P9 — Åtvidabergs FF
 
-**Träningsmaterialet för ett barnfotbollslag, öppet för vem som helst att läsa, använda och kopiera.**
+**Träningsmaterialet för ett barnfotbollslag, öppet för vem som helst att läsa och granska.**
 
 Det här är hela arbetssättet för ett lag med arton pojkar födda 2017 i Åtvidabergs FF:
 spelidén, hur passen byggs, 42 övningar med bild, en färdig säsongsplan, hur vi mäter om
@@ -102,19 +102,26 @@ värdegrund och Svenska Fotbollförbundets riktlinjer för åldrarna 8–12.
 
 ---
 
-## Till andra lag i ÅFF — och alla andra
+## Till dig som läser utifrån
 
-**Ta det. Forka det. Gör om det så att det passar er.**
+**Det här är under prövning.**
 
-Materialet är skrivet för ett lag, men nästan ingenting i det är unikt för just det laget.
-Övningsbanken, årshjulet, mätningen och föräldrabrevet fungerar för vilken årskull som
-helst — det är bara datum, spelform och truppstorlek som behöver bytas.
+Materialet beskriver hur ett lag arbetar just nu. Det beskriver inte en metod som visat sig
+fungera. Första säsongen är inte slut, siffrorna är inte inne, och flera av valen kan visa
+sig vara fel.
 
-Om ni gör det bättre: hör gärna av er, eller skicka en pull request.
+Läs det gärna. Pröva gärna en enskild sak på din egen träning och se vad som händer hos
+er — en övning, en regel, ett sätt att ställa frågor i stället för att säga till. Det är så
+man får veta något.
 
-**Övnings-ID är avsiktligt fasta.** `A3` är Grindar, alltid, i varje dokument och varje år.
-Ett ID återanvänds aldrig, så gamla säsongsplaner går att läsa. Behåll den regeln om ni
-bygger vidare — det är den som gör att flera lag kan prata om samma övning.
+Men läs det inte som en färdig modell att införa. Ett arbetssätt som fungerar med arton
+pojkar i Åtvidaberg är inget bevis för något annat lag, och materialet gör inga anspråk på
+att vara det. `11-metoden.md` avslutas med en lista över vad som skulle få oss att ändra
+metoden — den listan är ärligare än några resultat vi kan visa upp idag.
+
+Har du synpunkter, invändningar, eller erfarenhet av att ha provat något av det här:
+[albinsidas@gmail.com](mailto:albinsidas@gmail.com). Den återkopplingen är mer värd än
+spridning.
 
 ---
 
@@ -138,6 +145,11 @@ beroenden.
 
 Övningar och pass redigeras i `_bygg/build.py`. Diagram ritas av `_bygg/nya_svgs.py`.
 Se [CLAUDE.md](CLAUDE.md) för detaljerna.
+
+**Övnings-ID är avsiktligt fasta.** `A3` är Grindar, alltid, i varje dokument och varje år.
+Ett ID återanvänds aldrig, så gamla säsongsplaner går fortfarande att läsa, och förbättras
+en övning skrivs rutan om medan koden står kvar. Det är den regeln som gör att säsongsplanen
+kan hänvisa i stället för att skriva av.
 
 ---
 

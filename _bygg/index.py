@@ -101,7 +101,7 @@ HTML = f'''<!DOCTYPE html>
 <html lang="sv"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>P9 — Åtvidabergs FF</title>
-<meta name="description" content="Träningsmaterialet för ett barnfotbollslag. Spelidé, övningar, säsongsplan och riktlinjer — öppet för alla att läsa och använda.">
+<meta name="description" content="Träningsmaterialet för ett barnfotbollslag. Spelidé, övningar, säsongsplan och riktlinjer — öppet att läsa och granska.">
 {FONTS}
 <style>{css}{EXTRA_CSS}{EXTRA}</style></head><body>
 
@@ -156,22 +156,25 @@ eller lägga i lagchatten som de är.</p>
 </section>
 
 <section id="anvand">
-<div class="shead"><span class="num">05</span><h2>Ta det och gör det till ert</h2></div>
-<p class="lede">Materialet är skrivet för ett lag, men nästan ingenting i det är unikt för
-just det laget.</p>
-<p style="max-width:74ch">Övningsbanken, årshjulet, mätningen och föräldrabrevet fungerar
-för vilken årskull som helst — det är datum, spelform och truppstorlek som behöver bytas.
-Är du tränare i ÅFF eller någon annanstans: kopiera, ändra och gör om det så att det
-passar er.</p>
-<p style="max-width:74ch">Materialet är licensierat under <b>CC BY-SA 4.0</b>. Använd det
-fritt, även kommersiellt, så länge du anger varifrån det kommer och delar vidare under
-samma licens.</p>
-<div class="call"><h4>En regel värd att behålla om du bygger vidare</h4>
-<p><b>Övnings-ID är fasta för alltid.</b> <span class="mono">A3</span> är Grindar, i varje
-dokument och varje år. Ett ID återanvänds aldrig, så gamla säsongsplaner går fortfarande
-att läsa, och förbättras en övning skrivs rutan om medan koden står kvar.</p>
-<p>Det är den regeln som gör att flera lag kan prata om samma övning utan att missförstå
-varandra.</p></div>
+<div class="shead"><span class="num">05</span><h2>Till dig som läser utifrån</h2></div>
+<p class="lede">Det här är under prövning.</p>
+<p style="max-width:74ch">Materialet beskriver hur <b>ett</b> lag arbetar just nu. Det
+beskriver inte en metod som visat sig fungera. Första säsongen är inte slut, siffrorna är
+inte inne, och flera av valen kan visa sig vara fel.</p>
+<p style="max-width:74ch">Läs det gärna. Pröva gärna en enskild sak på din egen träning och
+se vad som händer hos er — en övning, en regel, ett sätt att ställa frågor i stället för att
+säga till. Det är så man får veta något.</p>
+<p style="max-width:74ch">Men läs det inte som en färdig modell att införa. Ett arbetssätt
+som fungerar med arton pojkar i Åtvidaberg är inget bevis för något annat lag, och
+materialet gör inga anspråk på att vara det.</p>
+<div class="call"><h4>Det ärligaste vi kan visa upp idag</h4>
+<p><b>Metoden</b> avslutas med en lista över vad som skulle få oss att ändra den — när
+blocklängden är fel, när blockordningen är fel, och när spelidén är fel. Ett arbetssätt som
+inte går att motbevisa är en trosuppfattning.</p>
+<p>Den listan säger mer om hur mycket det här är värt än några resultat vi kan peka på
+efter en halv säsong.</p></div>
+<p style="max-width:74ch">Har du synpunkter, invändningar eller erfarenhet av att ha provat
+något av det här — hör av dig. Den återkopplingen är mer värd än spridning.</p>
 </section>
 
 <footer>
