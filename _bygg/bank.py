@@ -45,7 +45,7 @@ HTML=f'''<!DOCTYPE html><html lang="sv"><head><meta charset="utf-8">
 <div class="eyebrow">Åtvidabergs FF · 02-REFERENS · Version 1.0</div>
 <h1>Övnings<em>bank</em></h1>
 <div class="sub">Föreningens gemensamma övningar. Varje övning har ett ID som betyder samma sak
-i hela klubben, i alla åldrar, i alla år. Säsongsplaner hänvisar hit med kod — de skriver
+i alla våra dokument, i alla åldrar, i alla år. Säsongsplaner hänvisar hit med kod — de skriver
 aldrig av en övning.</div>
 <div class="tri">
 <div><strong>Hänvisa</strong><span>Skriv A3 i säsongsplanen. Kopiera aldrig texten.</span></div>

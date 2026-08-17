@@ -10,7 +10,7 @@ en fullständig taxonomi över träningsområden.
 ## Varför det ligger parkerat
 
 Vi har mer än nog att göra med ett lag den här säsongen. Ett arbetssätt som bevisligen
-fungerar med arton nioåringar är ett argument som går att ta till klubben. Ett dokument
+fungerar med en grupp nioåringar är ett argument som går att ta till klubben. Ett dokument
 är det inte.
 
 Det är alltså rätt ordning: först får det fungera hos oss, sedan kan det bli klubbnivå.

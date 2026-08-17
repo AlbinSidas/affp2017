@@ -1,7 +1,7 @@
 # Årshjulet
 ## När vi tränar, vad vi tränar, och vad som ska förberedas
 
-*För oss tre. Läs den i augusti och i februari. Resten av året räcker det att titta på månadsraden.*
+*För lagets tränare. Läs den i augusti och i februari. Resten av året räcker det att titta på månadsraden.*
 
 ---
 
@@ -29,7 +29,7 @@ Hjulet löser det genom att svara på en enda fråga i förväg: **vad gör vi d
 | **Jun** | Vårsäsong, block G → avslut | **Sommarcup.** Lagavslutning | Testdag 3. **Matguiden ut före cupen.** Höstplanen skrivs |
 | **Jul** | **Uppehåll.** Inget organiserat | — | Ingenting. Detta är avsiktligt |
 | **Aug** | **Höstsäsong startar.** 2 pass/vecka | **Cup 16 aug · Cup 30 aug**, 5 mot 5 | **Föräldramöte 2.** Testdag 1. Matguiden ut. Konerna ut vecka 1 |
-| **Sep** | Höstsäsong, block B | **Cup 13 sep** (5 mot 5) · **Träningsmatch 26 sep (7 mot 7)** | Testdag 2 den 8:e. Halvtidsavstämning, vi tre |
+| **Sep** | Höstsäsong, block B | **Cup 13 sep** (5 mot 5) · **Träningsmatch 26 sep (7 mot 7)** | Testdag 2 den 8:e. Halvtidsavstämning med tränarna |
 | **Okt** | Höstsäsong, block C → avslut | **Cup 10–11 okt (7 mot 7)**. Lagavslutning | Testdag 3. **Räkna truppen mot augusti** |
 | **Nov** | **Vinterträningen startar** på konstgräs, 1 pass/vecka | — | **Utvärderingskväll.** Övningsbanken uppdateras. Kallelser för vintern ut |
 | **Dec** | Vinterträning, uppehåll över helgerna | — | Ingenting. Vila |
@@ -77,7 +77,7 @@ Fem saker avgör om vinterpasset fungerar. De är alla praktiska.
 2. **Kläder är en förutsättning, inte en detalj.** Långärmat under tröjan, vantar, mössa. Sägs i lagchatten i november och sedan en gång till i januari, för det glöms bort varje år.
 3. **Skor för konstgräs.** Vanliga skruvdobbar hör inte hemma där. Konstgräs- eller multisula, eller gympaskor med bra grepp.
 4. **De dricker fortfarande.** Barn känner sig sällan törstiga i kyla och dricker därför sämre på vintern än på sommaren. Lägg in pauserna ändå — se `06-spelarna-och-vuxna.md` §4.
-5. **Korta ner när det är riktigt kallt.** Vid sträng kyla eller blötsnö är ett kortare och tätare pass rätt beslut, inte ett misslyckande. Ställ hellre in helt än att hålla arton nioåringar stillastående i tio minusgrader.
+5. **Korta ner när det är riktigt kallt.** Vid sträng kyla eller blötsnö är ett kortare och tätare pass rätt beslut, inte ett misslyckande. Ställ hellre in helt än att hålla en hel trupp stillastående i tio minusgrader.
 
 ### Belastning över ett år
 
@@ -177,7 +177,7 @@ flyttas fram. Se `05-matning-och-utveckling.md` §9.
 | **Höstcup eller inomhuscup** | Oktober eller januari, om laget vill | 0–1 | Huvudtränaren |
 | **Matguiden ut** | Minst två veckor före varje cup | 2 | Vem som helst |
 | **Lagavslutning** | Juni och oktober | 2 | Vårdnadshavare |
-| **Utvärderingskväll, vi tre** | November | 1 | Huvudtränaren |
+| **Utvärderingskväll för tränarna** | November | 1 | Huvudtränaren |
 
 ### Höstens spelprogram 2026
 
@@ -240,7 +240,7 @@ Det som fallerar i ideella lag är sällan träningen. Det är det som ska göra
 
 ## Utvärderingskvällen i november
 
-En kväll, vi tre, efter höstens sista pass. Det är hela det formella arbetet vi lägger på utvärdering under ett år, och det ska räcka.
+En kväll, alla tränare, efter höstens sista pass. Det är hela det formella arbetet vi lägger på utvärdering under ett år, och det ska räcka.
 
 Fem frågor, i den här ordningen:
 

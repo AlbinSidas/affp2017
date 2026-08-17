@@ -246,7 +246,7 @@ EX = [
  "Dela planen i tre eller fyra små banor. Konmål eller små mål.",
  "3 mot 3 på varje bana samtidigt. Byt lag var femte minut. 18 spelare = tre banor. 13 = två banor plus en joker.",
  ["Alla spelar hela tiden. Ingen står still. Detta är hela veckans bollkontaktvolym.",
-  "Blanda lagen om varannan gång. Varje spelare ska både få vara starkast i en grupp och näst bäst i en annan.",
+  "Blanda lagen om varannan gång. Varje spelare ska både få vara bland de starkaste i en grupp och bland de svagare i en annan.",
   "Lägg blockets villkor på spelet (mållinje / bonuspoäng / fyra mål)."],
  "Sätt de fyra–fem svagaste i samma spel som varandra i ETT av passen, aldrig varje gång."),
 
@@ -354,18 +354,18 @@ EX = [
 
 ("G4","5 mot 5 med sidostation","SPEL","5-mot-5-planen + yta bredvid","20–25 min",
  "En bana för 5 mot 5 med målvakter, och en yta bredvid för den tredje gruppen. Sätt båda innan passet börjar.",
- "Sjutton spelare blir tio på banan och sju vid sidan. Sidogruppen kör en övning ur kvällens tema. Rotera var sjätte minut: sidogruppen går in och ett av lagen går ut. Alla spelar ungefär lika mycket över passet.",
- ["Tre grupper, inte två. Med sjutton spelare på en 5-mot-5-plan blir ett enda stort spel en klunga där halva truppen aldrig rör bollen.",
+ "Passar 15–18 spelare: tio på banan och resten vid sidan. Sidogruppen kör en övning ur kvällens tema. Rotera var sjätte minut: sidogruppen går in och ett av lagen går ut. Alla spelar ungefär lika mycket över passet.",
+ ["Tre grupper, inte två. Med så många spelare på en 5-mot-5-plan blir ett enda stort spel en klunga där halva truppen aldrig rör bollen.",
   "Sidostationen är ingen bänk. Välj en övning med hög bollkontaktvolym — A2, B2 eller C3 fungerar alltid — så att den gruppen får FLER touchar än de som spelar, inte färre.",
   "Rotera på klockan, inte på känsla. Ropa bytet högt och byt hela grupper, aldrig enskilda spelare.",
   "Håll rotationen tajt. Sex minuter känns kort och är rätt — det är väntan mellan omgångarna som dödar ett pass.",
   "En ledare vid spelet, en vid sidostationen. Är ni tre tar den tredje observationen, se 05-matning-och-utveckling.md."],
- "Är ni bara tretton den kvällen: 4 mot 4 på banan och fem vid sidan, samma rotation. Är ni över tjugo: två banor och en sidogrupp."),
+ "Är ni 11–14 den kvällen: 4 mot 4 på banan och resten vid sidan, samma rotation. Är ni över tjugo: två banor och en sidogrupp."),
 
 ("TRK","Så delar du tisdagsplanen","GRUND","7-mot-7-planen","—",
  "Dela planen i tre banor med koner innan någon kommer.",
- "18 spelare = tre banor à 3 mot 3. Ingen står still, ingen väntar. Öppna aldrig hela ytan förrän sista kvarten.",
- ["En 7-mot-7-plan med arton niåringar är en nackdel om du använder den hel.",
+ "En trupp på 16–20 = tre banor à 3 mot 3. Ingen står still, ingen väntar. Öppna aldrig hela ytan förrän sista kvarten.",
+ ["En 7-mot-7-plan med en full trupp niåringar är en nackdel om du använder den hel.",
   "De fyra–fem svagaste får noll bollkontakter på stor yta. På liten yta måste de röra bollen.",
   "Sätt konerna innan de kommer. Alltid."],
  "—"),
@@ -508,7 +508,7 @@ S.append(thu(8,"24 sep","B→C","GENERALREPETITION — 7 mot 7",
   ("0:27","G3","7 mot 7 i 2-3-1 — resten av passet. Numren delas ut och roteras.")],
  "Träningsmatchen är om två dagar och det här är enda gången formen kan sättas innan dess. "
  "En station, inte tre. Tre coachpunkter sagda FÖRE: håll bredden, sexan bakom bollen, "
- "målvakten spelar ut. Sedan tystnad. Med sjutton spelare blir det 7 mot 7 plus tre som "
+ "målvakten spelar ut. Sedan tystnad. Med full trupp blir det 7 mot 7 plus några som "
  "roterar in var tredje minut — byt hela positioner, inte enskilda spelare."))
 
 # ---- BLOCK C -------------------------------------------------------------
@@ -981,19 +981,19 @@ ni andra kan gå direkt till er station och göra er övning bra i stället för
 <h3 style="font-size:22px;text-transform:uppercase;margin:26px 0 10px">Så delar ni truppen</h3>
 <table>
 <tr><th>Antal</th><th>Bästa format</th><th>Kommentar</th></tr>
-<tr><td class="mono">18</td><td>3 mot 3 på tre banor</td><td>Går jämnt ut. Ingen står still, ingen väntar. Det här är tisdagens grundformat.</td></tr>
-<tr><td class="mono">18</td><td>5 mot 5 + 4 mot 4, med målvakt</td><td>Sista kvarten på tisdagen. Två banor, riktiga eller konmål.</td></tr>
-<tr><td class="mono">17</td><td>Tre stationer à 5–6 spelare</td><td>Torsdagens karusell. En ledare per station, sex minuter, rotation medsols.</td></tr>
-<tr><td class="mono">17</td><td><b>5 mot 5 + sidostation</b> (G4)</td><td><b>Torsdagens avslutning.</b> Tio spelar, sju kör en övning bredvid, rotera var sjätte minut. Sidogruppen ska få fler bollkontakter än de som spelar.</td></tr>
-<tr><td class="mono">13</td><td>3 mot 3 på två banor + 1 joker</td><td>Jokern spelar med det lag som har bollen. Byt joker varannan minut — det är en eftertraktad roll, inte en reservplats.</td></tr>
-<tr><td class="mono">13</td><td>4 mot 4 + sidostation</td><td>G4 med mindre lag. Samma rotation.</td></tr>
+<tr><td class="mono">16–20</td><td>3 mot 3 på tre banor</td><td>Går jämnt ut. Ingen står still, ingen väntar. Det här är tisdagens grundformat.</td></tr>
+<tr><td class="mono">16–20</td><td>5 mot 5 + 4 mot 4, med målvakt</td><td>Sista kvarten på tisdagen. Två banor, riktiga eller konmål.</td></tr>
+<tr><td class="mono">15–18</td><td>Tre stationer à 5–6 spelare</td><td>Torsdagens karusell. En ledare per station, sex minuter, rotation medsols.</td></tr>
+<tr><td class="mono">15–18</td><td><b>5 mot 5 + sidostation</b> (G4)</td><td><b>Torsdagens avslutning.</b> Tio spelar, resten kör en övning bredvid, rotera var sjätte minut. Sidogruppen ska få fler bollkontakter än de som spelar.</td></tr>
+<tr><td class="mono">11–14</td><td>3 mot 3 på två banor + 1 joker</td><td>Jokern spelar med det lag som har bollen. Byt joker varannan minut — det är en eftertraktad roll, inte en reservplats.</td></tr>
+<tr><td class="mono">11–14</td><td>4 mot 4 + sidostation</td><td>G4 med mindre lag. Samma rotation.</td></tr>
 </table>
 
 <div class="call"><h4>Sätt grupperna på nytt varje vecka</h4>
 <p>Dra lott, dela på färg på västarna, eller räkna av. Aldrig fasta nivågrupper och aldrig
 namn som går att rangordna.</p>
 <p>Varje spelare behöver båda erfarenheterna under en säsong: att vara den starkaste i en grupp
-och att vara näst bäst i en annan. Den ena bygger ledarskap, den andra bygger utveckling.
+och att vara bland de svagare i en annan. Den ena bygger ledarskap, den andra bygger utveckling.
 Slumpade grupper ger det automatiskt, utan att någon tränare behöver fatta beslutet varje vecka.</p></div>
 </section>
 
@@ -1029,7 +1029,7 @@ MV2 lär ut den sidledsvariant som rotationen i mål faktiskt kräver. Kör båd
 med foten, hen rensar aldrig i första hand. Det är klubbens spelidé vid sin källa,
 och det är MV3 i övningsbanken.</p>
 <p>Målvaktsstationen ligger med i karusellen på ungefär varannan tisdag. Det betyder att alla
-arton spelare får grunderna under hösten — vilket är precis vad som behövs när ni roterar.</p></div>
+hela truppen får grunderna under hösten — vilket är precis vad som behövs när ni roterar.</p></div>
 
 <div class="call"><h4>Om målen</h4>
 <p>Använd <b>konmål eller små mål i alla spel</b>. Ett fullstort mål bakom en niåring gör
@@ -1158,7 +1158,7 @@ per pass räcker för att hela truppen mäts var tredje vecka. <b>O1 är måttet
 om vi bara orkar med ett.</b></p>
 
 <div class="call"><h4>Tysta matchen</h4>
-<p>En gång per block: fem minuter spel där vi tre är helt tysta. Ingen coachning,
+<p>En gång per block: fem minuter spel där alla ledare är helt tysta. Ingen coachning,
 ingen uppmuntran, inga namn. Vi står still och tittar.</p>
 <p>Det är den renaste observationen vi kan få — och första gången kommer den kännas
 väldigt lång, vilket i sig säger något om hur mycket vi pratar.</p></div>
@@ -1166,7 +1166,7 @@ väldigt lång, vilket i sig säger något om hur mycket vi pratar.</p></div>
 <div class="call"><h4>Vad vi aldrig gör</h4>
 <p>Ingen resultatlista. Ingen rangordning. Aldrig underlag för lagindelning eller uttagning.
 Ingen tvingas delta. Vi mäter aldrig bollinnehav.</p>
-<p>Observationerna O1 och O2 stannar hos oss tre — de är ett mått på <b>vår</b> träning,
+<p>Observationerna O1 och O2 stannar hos tränarna — de är ett mått på <b>vår</b> träning,
 inte på barnet. Kortet tillhör spelaren.</p></div>
 </section>
 
@@ -1195,7 +1195,7 @@ det gäller så kan rutan skrivas om inför nästa säsong.</p></div>
 <p>Efter säsongen lämnas tre saker till fotbollsutvecklaren: vilka övningskoder som
 fungerade och vilka som inte gjorde det, hur närvaron såg ut, och truppstorleken i
 augusti jämfört med oktober. Det är underlaget för nästa årskull — och det är så
-övningsbanken blir bättre för hela klubben i stället för bara för ett lag.</p></div>
+övningsbanken blir bättre från år till år i stället för att skrivas om varje säsong.</p></div>
 </section>
 
 <footer>

@@ -1,7 +1,7 @@
 # Så tränar vi
 ## Passets uppbyggnad, bemanning och vad vi lär ut
 
-*För oss tre. Tisdag 90 min på sjumannaplanen, torsdag 60 min på femmannaplanen.*
+*För lagets tränare. Tisdag 90 min på sjumannaplanen, torsdag 60 min på femmannaplanen.*
 
 ---
 
@@ -26,7 +26,7 @@ Fyra saker. De gäller alla lika och de handlar inte om nivå.
 3. **Man förstör inte för någon annan.** Det här är den enda av punkterna som är hård.
 4. **Man försöker på riktigt.** Att misslyckas är helt okej. Att inte försöka är det inte.
 
-En spelare som är sämst i gruppen och gör alla fyra är precis den spelare vi vill ha. En spelare som är bäst i gruppen och struntar i punkt tre är ett större problem.
+En spelare som är svagast i gruppen och gör alla fyra är precis den spelare vi vill ha. En spelare som är starkast i gruppen och struntar i punkt tre är ett större problem.
 
 Punkterna sägs en gång i augusti, kort, och sedan hänvisar vi till dem i stället för att hitta på nya tillsägelser.
 
@@ -67,15 +67,15 @@ Extra svårighet ges som en utmärkelse, aldrig som ett straff, och alltid inom 
 ska stryka när tiden inte räcker: stryk en station, aldrig speltiden. Spelförståelse
 byggs i spel, och den delen av passet är den enda som tränar allt samtidigt.
 
-**På torsdagarna kör vi tre stationer om sex minuter.** Truppen har vuxit till omkring
-sjutton på torsdagarna, och med två stationer blir grupperna för stora — åtta eller nio
-barn på en station betyder kö, och kö är det enda vi aldrig accepterar.
+**På torsdagarna kör vi tre stationer om sex minuter.** Truppen är numera omkring
+femton till arton på torsdagarna, och med två stationer blir grupperna för stora — åtta
+eller nio barn på en station betyder kö, och kö är det enda vi aldrig accepterar.
 
 Tre stationer ger fem till sex per station och en ledare vid varje.
 
 **Passet avslutas med G4: 5 mot 5 plus en sidostation.** Tio spelare på banan, sju vid
 sidan med en egen övning, och rotation var sjätte minut. Det är enda sättet att få
-sjutton barn att spela femmannafotboll på en femmannaplan utan att sju av dem står still.
+så många barn att spela femmannafotboll på en femmannaplan utan att en tredjedel står still.
 
 Sidogruppen är aldrig en bänk. Den ska ha **fler** bollkontakter än de som spelar just då.
 
@@ -126,7 +126,7 @@ i sex minuter.
 ### Utmaningsnivåer — så blir nivåanpassningen något som faktiskt händer
 
 STEP-modellen i `06-spelarna-och-vuxna.md` är rätt, men en princip som kräver att en
-ideell ledare bedömer arton spelare i realtid blir aldrig av. Därför byggs valet in i
+ideell ledare bedömer en hel trupp i realtid blir aldrig av. Därför byggs valet in i
 stationen i stället:
 
 > **Varje station har tre svårighetsgrader, och spelaren väljer själv.**
@@ -152,7 +152,7 @@ om hen vill testa den bredare grinden en stund.
 
 ## Ytan
 
-En stor plan är en nackdel om den används hel. Med arton spelare på en 7-mot-7-plan får de svagaste fyra–fem noll bollkontakter.
+En stor plan är en nackdel om den används hel. Med en full trupp på en 7-mot-7-plan får de svagaste fyra–fem noll bollkontakter.
 
 **Dela planen med koner innan någon kommer.** Öppna aldrig hela ytan förrän sista kvarten — då, och bara då, spelas det på hel plan.
 

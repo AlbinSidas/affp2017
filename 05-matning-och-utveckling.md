@@ -1,7 +1,7 @@
 # Mätning och utveckling
 ## Hur vi vet om träningen fungerar
 
-*För oss tre. Läs den här innan första testdagen.*
+*För lagets tränare. Läs den här innan första testdagen.*
 
 ---
 
@@ -81,7 +81,7 @@ TITT FÖRE      ||||                    (4)
 FRAMÅT/SIDLED  ||||  ||               (7)
 ```
 
-Två minuter, en spelare. Med arton spelare tar det tre pass att gå igenom hela truppen. Gör en spelare per pass och per tränare, så är alla mätta var tredje vecka utan att någon behöver anstränga sig.
+Två minuter, en spelare. Med en full trupp tar det tre pass att gå igenom alla. Gör en spelare per pass och per tränare, så är alla mätta var tredje vecka utan att någon behöver anstränga sig.
 
 **Fördjupningen — film, fyra minuter.**
 
@@ -95,7 +95,7 @@ Filmen är bättre än live på tre sätt: den går att räkna om, den går att 
 
 ## 5. Tysta matchen
 
-En gång per block, i slutet av ett pass: **fem minuter spel där vi tre är helt tysta.**
+En gång per block, i slutet av ett pass: **fem minuter spel där alla ledare är helt tysta.**
 
 Ingen coachning, ingen uppmuntran, inga instruktioner. Vi står still och tittar.
 
@@ -163,7 +163,7 @@ Så att vi inte blir besvikna på fel saker.
 - **Ingen tvingas.** Det ska vara helt okej att avstå, utan förklaring och utan kommentar.
 - **Vi mäter aldrig bollinnehav.** Se `01-sa-spelar-vi.md`.
 
-Observationerna O1 och O2 stannar hos oss tre. De hamnar inte på spelarens kort — de är ett mått på **vår** träning, inte på barnet.
+Observationerna O1 och O2 stannar hos tränarna. De hamnar inte på spelarens kort — de är ett mått på **vår** träning, inte på barnet.
 
 Det är en viktig distinktion. Kortet tillhör spelaren. Observationerna tillhör oss.
 
@@ -210,7 +210,7 @@ O1 och O2 fungerar hela vägen upp — de mäts likadant vid nio som vid nitton,
 | **Slutet av varje block** | Tysta matchen, fem minuter |
 | **Pass 11** (8 sep) | Kortet, testdag 2. Filmad observation. |
 | **Pass 23** (20 okt) | Kortet, testdag 3. Filmad observation. Visa kurvan. |
-| **Efter säsongen** | Vi tre går igenom siffrorna. En kväll i november. Vad ändrar vi till våren? |
+| **Efter säsongen** | Tränarna går igenom siffrorna. En kväll i november. Vad ändrar vi till våren? |
 
 Hela årets rytm — perioder, block, aktiviteter och deadlines — ligger i `08-arshjul.md`.
 

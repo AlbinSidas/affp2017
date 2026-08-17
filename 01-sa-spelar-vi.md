@@ -1,7 +1,7 @@
 # Så spelar vi
 ## P9:s spelidé
 
-*För oss tre. Det här är vad vi försöker bygga, och vad vi säger till spelarna.*
+*För lagets tränare. Det här är vad vi försöker bygga, och vad vi säger till spelarna.*
 *Bakgrunden till varför den ser ut så här ligger i `_parkerat/03-bakgrund-spelide-EN.md`.*
 
 ---
@@ -138,7 +138,7 @@ varför.
 
 ---
 
-## En ÅFF-spelare
+## En spelare i det här laget
 
 | | |
 |---|---|
@@ -155,7 +155,7 @@ Varje övning vi kör ska gå att försvara som att den bygger något av de sju.
 ### Och samma spelare vid arton
 
 Akademier bygger bakåt från en bild av den färdiga spelaren. Vi kan göra samma sak utan att
-för den skull välja ut någon — bilden gäller alla arton pojkarna, och den är inte ett löfte
+för den skull välja ut någon — bilden gäller hela truppen, och den är inte ett löfte
 om proffskontrakt. Den är en beskrivning av **en spelare som vilket lag som helst vill ha
 med sig.**
 
@@ -279,7 +279,7 @@ Spelidén har en enda verklig risk: att den blir steril bollhållning där ingen
 2. **Inga touchbegränsningar i match under 9 mot 9.** Tvåtouchregler tillverkar riskrädsla. I övningar går det bra — aldrig i spel.
 3. **1-mot-1-kravet.** På motståndarens planhalva förväntas den som är ensam mot en motståndare gå förbi. Det vi rättar är den säkra bakåtpassningen, inte den misslyckade dribblingen.
 4. **Alla ska kunna dribbla sig ur press**, inte bara passa sig ur den.
-5. **Bollinnehav i procent mäts, redovisas och firas aldrig, på någon nivå i föreningen.** Vi mäter genombrott: passningar in i sista tredjedelen, inlägg i straffområdet, 1-mot-1-försök, avslut.
+5. **Bollinnehav i procent mäts, redovisas och firas aldrig, i någon ålder i det här laget.** Vi mäter genombrott: passningar in i sista tredjedelen, inlägg i straffområdet, 1-mot-1-försök, avslut.
 
 Regel 5 är den skarpaste. **Börjar vi någon gång gratulera oss själva till en bollinnehavssiffra har vi tappat bort oss.**
 
@@ -347,7 +347,7 @@ Steget upp ska kännas som mer av samma sak, inte som något nytt.
 
 **Spelformer:** 5 mot 5 → 1-2-1 · 7 mot 7 → 2-3-1 · 9 mot 9 → 3-2-3 · 11 mot 11 → 4-3-3
 
-*Samma nummer betyder samma sak i hela klubben. I barnfotbollen spelar alla alla positioner.*
+*Samma nummer betyder samma sak i alla spelformer. I barnfotbollen spelar alla alla positioner.*
 
 ---
 

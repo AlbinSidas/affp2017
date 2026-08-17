@@ -2,7 +2,7 @@
 
 **Träningsmaterialet för ett barnfotbollslag, öppet för vem som helst att läsa och granska.**
 
-Det här är hela arbetssättet för ett lag med arton pojkar födda 2017 i Åtvidabergs FF:
+Det här är hela arbetssättet för ett lag med pojkar födda 2017 i Åtvidabergs FF:
 spelidén, hur passen byggs, 42 övningar med bild, en färdig säsongsplan, hur vi mäter om
 träningen fungerar, och vad vi lovar spelarna och deras familjer.
 
@@ -114,8 +114,8 @@ Läs det gärna. Pröva gärna en enskild sak på din egen träning och se vad s
 er — en övning, en regel, ett sätt att ställa frågor i stället för att säga till. Det är så
 man får veta något.
 
-Men läs det inte som en färdig modell att införa. Ett arbetssätt som fungerar med arton
-pojkar i Åtvidaberg är inget bevis för något annat lag, och materialet gör inga anspråk på
+Men läs det inte som en färdig modell att införa. Ett arbetssätt som fungerar med en grupp
+nioåringar i Åtvidaberg är inget bevis för något annat lag, och materialet gör inga anspråk på
 att vara det. `11-metoden.md` avslutas med en lista över vad som skulle få oss att ändra
 metoden — den listan är ärligare än några resultat vi kan visa upp idag.
 

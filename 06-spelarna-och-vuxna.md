@@ -1,7 +1,7 @@
 # Spelarna och vi vuxna
 ## Nivåanpassning, stök, eget barn, mat och gränser
 
-*För oss tre. Den här är viktigare än alla övningar tillsammans.*
+*För lagets tränare. Den här är viktigare än alla övningar tillsammans.*
 
 ---
 
@@ -36,7 +36,7 @@ Fyra spakar. Utvecklad av Youth Sports Trust, används av bland andra engelska f
 
 Nivåindela högst under åtta till tio minuter av en station. Aldrig permanent, aldrig med namn som går att rangordna. Använd färger.
 
-Sätt grupperna på nytt varje vecka — dra lott, dela på västfärg eller räkna av. Varje spelare behöver båda erfarenheterna under en säsong: att vara starkast i en grupp och näst bäst i en annan. Den ena bygger ledarskap, den andra bygger utveckling.
+Sätt grupperna på nytt varje vecka — dra lott, dela på västfärg eller räkna av. Varje spelare behöver båda erfarenheterna under en säsong: att vara bland de starkaste i en grupp och bland de svagare i en annan. Den ena bygger ledarskap, den andra bygger utveckling.
 
 ---
 
@@ -80,7 +80,7 @@ En spelare som **inte kan** hålla fokus — adhd, trött, orolig, kämpar med s
 
 En spelare som **inte vill** är oftast uttråkad eller söker status. Ge status på laglig väg: visa övningen, döm, välj lag, vara assistent i fem minuter. Status som fås genom att störa är status som inte gick att få på annat sätt.
 
-Och räkna med att vissa pass blir röriga ändå. Arton niåringar efter en skoldag är arton niåringar. Bedöm snittet över en säsong, inte en blöt tisdag.
+Och räkna med att vissa pass blir röriga ändå. En hel trupp niåringar efter en skoldag är just det. Bedöm snittet över en säsong, inte en blöt tisdag.
 
 ---
 
@@ -106,7 +106,7 @@ Säg det högt en gång, så att det blir en överenskommelse i stället för en
 
 ### Gruppindelning och testresultat
 
-Rotera så att barnet ibland är starkast i sin grupp och ibland näst bäst. Slumpade grupper ger det automatiskt.
+Rotera så att barnet ibland är bland de starkaste i sin grupp och ibland bland de svagare. Slumpade grupper ger det automatiskt.
 
 Läs ditt eget barns testsiffror precis som du läser alla andras. Du kommer att titta noggrannare — det är oundvikligt. Bestäm i förväg vad du gör med dem: ingenting. Kortet tillhör spelaren.
 

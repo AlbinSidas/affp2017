@@ -87,9 +87,9 @@ Och en sak rakt ut: **att inte orka är inte samma sak som att inte försöka.**
 har svårt att stå still, hålla fokus eller vänta på sin tur gör ingenting fel. Vissa
 behöver kortare uppgifter, mer rörelse och något att göra hela tiden för att kunna vara
 med — och det är vårt jobb att ordna, inte deras att skärpa sig till. Finns det något vi
-bör veta om ert barn, berätta för oss. Det stannar mellan oss tre.
+bör veta om ert barn, berätta för oss. Det stannar mellan oss tränare.
 
-Skälet är enkelt: timmen är gemensam. En rörig kvart kostar alla arton spelarna något.
+Skälet är enkelt: timmen är gemensam. En rörig kvart kostar hela gruppen något.
 Vi håller ordning på träningen för hela gruppens skull — inte för att hålla efter någon.
 
 **Om vi märker att ert barn ofta hamnar utanför övningen hör vi av oss** — inte som ett
@@ -109,13 +109,11 @@ riktigt arbete, och ni gör det redan. Det här är vad som hjälper mest, i den
 vantar och mössa när det är kallt. Vattenflaska varje gång. Benskydd alltid.
 
 Skor: vanliga gympaskor eller träningsskor fungerar utmärkt på konstgräs. **Ingen behöver
-köpa något nytt för att träna hos oss.** Växer barnet ur något mitt i säsongen — säg till
-oss. Det finns nästan alltid ett par i rätt storlek i klubben, och det är inget märkvärdigt
-med att fråga.
+köpa något nytt för att träna hos oss.**
 
 **Svara på kallelsen.** Helst dagen före, men **ett svar en timme innan är hjälpsamt och
 ett svar fem minuter innan är också hjälpsamt.** Vi planerar övningar efter hur många som
-kommer, och tretton eller arton spelare är två olika pass. Sjukdom och förhinder kommer
+kommer, och halv trupp eller full trupp är två olika pass. Sjukdom och förhinder kommer
 när de kommer — det vi behöver är att veta, inte att veta i god tid.
 
 **Kom några minuter före.** Träningen börjar med boll direkt, från första spelaren.

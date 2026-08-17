@@ -1,15 +1,15 @@
 # P9 — Åtvidabergs FF
 ## Lagpärmen
 
-*För oss tre tränare. Läs den här sidan först.*
+*För lagets tränare. Läs den här sidan först.*
 
 ---
 
 ## Vad det här är
 
-Materialet för vårt lag. Inte för klubben, inte för framtida årskullar — för de arton pojkarna vi har, den här säsongen och nästa.
+Materialet för vårt lag. Inte för klubben, inte för framtida årskullar — för de pojkar vi har, den här säsongen och nästa.
 
-Det är skrivet så att vi tre ska kunna dela på jobbet utan att någon behöver ha allt i huvudet. Den som håller station två på tisdag behöver läsa en ruta i övningsbanken, inget mer.
+Det är skrivet så att tränarna ska kunna dela på jobbet utan att någon behöver ha allt i huvudet. Den som håller station två på tisdag behöver läsa en ruta i övningsbanken, inget mer.
 
 **Åtta dokument. Inget av dem längre än det behöver vara.**
 
@@ -75,7 +75,7 @@ resultatet. **Skicka inget förrän det står ALLT OK.**
 
 **Observation** — en av oss kliver ur coachrollen två minuter per pass och tittar på en enda spelare. Se `05-matning-och-utveckling.md`.
 
-Med tre tränare och arton spelare går det ihop utan att någon jobbar mer än en timme i veckan utanför planen.
+Med tre tränare och en trupp på femton till tjugo spelare går det ihop utan att någon jobbar mer än en timme i veckan utanför planen.
 
 ---
 
@@ -121,7 +121,7 @@ Här ligger materialet vi tog fram för klubben som helhet: organisationsförsla
 
 **Det ligger parkerat, inte borttaget.** Vi har mer än nog att göra med vårt eget lag den här säsongen. Om det visar sig fungera hos oss, och om någon i klubben frågar, finns det där.
 
-Det är också rätt ordning. Ett arbetssätt som bevisligen fungerar med arton nioåringar är ett argument. Ett dokument är det inte.
+Det är också rätt ordning. Ett arbetssätt som bevisligen fungerar med en grupp nioåringar är ett argument. Ett dokument är det inte.
 
 ---
 

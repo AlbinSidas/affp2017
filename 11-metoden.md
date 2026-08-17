@@ -107,7 +107,7 @@ Ledaren bedömer ingen.
 
 **Skälet:** tre saker på en gång. Självbestämmande är den starkaste motivationsfaktorn i
 de här åldrarna. Barn väljer förvånansvärt träffsäkert. Och det tar den ideella ledaren ur
-en roll hen varken hinner eller vill ha — att i realtid nivåbedöma arton barn.
+en roll hen varken hinner eller vill ha — att i realtid nivåbedöma en hel trupp.
 
 **Vad det kostar:** några väljer för lätt och några väljer för svårt. Båda löses med en
 fråga, inte med en tillsägelse.
@@ -128,7 +128,7 @@ En övning måste klara alla sex för att få plats i banken.
 | **Max två som väntar** | Fler än så och övningen är fel upplagd, oavsett hur bra den är i övrigt |
 | **Går att förklara på trettio sekunder** | Efter det har du tappat dem, och de visar det |
 | **Regeln gör jobbet** | Beteendet ska följa av upplägget, inte av tillsägelser |
-| **Går att köra med tretton eller arton** | Annars faller den den kvällen halva truppen är sjuk |
+| **Går att köra med halv eller full trupp** | Annars faller den den kvällen halva truppen är sjuk |
 | **Har tre nivåer** | Annars fungerar den bara för mittpacken |
 | **Bygger något i spelarprofilen** | Kan du inte peka ut vilken av de sju punkterna — stryk övningen |
 
