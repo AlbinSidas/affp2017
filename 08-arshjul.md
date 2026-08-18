@@ -169,7 +169,7 @@ flyttas fram. Se `05-matning-och-utveckling.md` §9.
 | Aktivitet | När | Antal per år | Vem förbereder |
 |---|---|---|---|
 | **Föräldramöte** | Mars och augusti, före första passet | 2 | Huvudtränaren |
-| **Testdag (kortet)** | Höst 2026: pass 5, 11 och 23. Aldrig dagarna efter en cup. | 6 | Huvudtränaren |
+| **Testdag (kortet)** | Höst 2026: pass 7, 15 och 23. Fyra veckor isär. Aldrig dagarna efter en cup, aldrig när ni är två ledare. | 6 | Huvudtränaren |
 | **Filmad observation** | Samma veckor som testdagarna | 6 | Den som inte coachar |
 | **Tysta matchen** | En gång per block, sista femton minuterna | 6 | Alla tre |
 | **Sammandrag / seriespel** | Enligt distriktets spelschema | *fylls i* | Huvudtränaren |

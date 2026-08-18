@@ -119,9 +119,45 @@ Det betyder att varje ledare bara behöver kunna **en** övning per pass, inte f
 
 **Rollen roterar inte.** Passets ramar ska se likadana ut varje vecka, och någon måste äga helheten medan de andra äger var sin station. Det är också det som gör att övriga ledare kan komma direkt till sin station och göra sin övning bra i stället för att hålla reda på klockan. Det är en lättnad, inte en degradering.
 
-**Är vi bara två den kvällen:** kör två stationer om 9–10 minuter i stället för tre om sju,
-och lägg G4:s sidostation som en självgående övning — A2, B2 eller C3 klarar sig utan ledare
-i sex minuter.
+### När vi bara är två ledare
+
+Det händer varje säsong, och det är ingen anledning att sänka kvaliteten. Men passet måste
+byggas annorlunda, för det som kostar en ledare är inte övningarna — det är **övergångarna
+och uppsikten**.
+
+Fyra regler:
+
+**1. Färre övergångar, längre block.** Kör **dubbel karusell**: två stationer i stället för
+tre, sex minuter styck, två varv. Andra varvet lägger du till ett villkor i stället för att
+byta övning. Två byten i stället för fyra.
+
+**2. Välj övningar som rullar själva.** De här kräver ingen aktiv ledare när de väl är
+igång, och de är alltid rätt en tvåledarkväll:
+
+| Övning | Varför den klarar sig | |
+|---|---|---|
+| **A1 Färgvästen** | Ledaren står stilla utanför rutan och håller upp västar | ingen rörelse alls |
+| **A3 Grindar** | Spelarna räknar själva och tävlar mot sin egen siffra | ingen domare |
+| **A2 Kungen av banan** | De löser det själva. Var inte domare | ingen domare |
+| **A5 Mållinjespel** | Regeln gör jobbet, inga mål att hämta bollar ur | ingen domare |
+| **G3 stort spel** | Två lag, en boll, tystnad | ingen uppsikt |
+
+**3. Färre ytor att hålla ögonen på.** Tre banor 3 mot 3 är rätt när ni är tre. Med två
+ledare blir det två banor med större lag — bollkontakterna sjunker något, men det är billigare
+än att ingen ser något alls.
+
+**4. En av er ska kunna stå still.** Är den ena ledaren upptagen — med ett eget litet barn,
+med en skadad spelare, med en förälder som vill prata — ska den ledarens station vara en av
+dem i tabellen ovan. Lägg den närmast ankomstytan.
+
+### Vad som aldrig läggs på en tvåledarkväll
+
+**Testdag.** Den kräver tre vuxna och odelad uppmärksamhet. En halvgjord mätning är sämre än
+ingen alls, eftersom siffrorna följer med spelaren hela hösten. Flytta testdagen, inte något annat.
+
+**Nytt tema.** Introduktioner kräver att någon kan visa, svara på frågor och bygga om i
+farten. Förläng hellre föregående block en vecka — det kostar ingenting, eftersom temat ändå
+behöver sina tjugo möten.
 
 ### Utmaningsnivåer — så blir nivåanpassningen något som faktiskt händer
 

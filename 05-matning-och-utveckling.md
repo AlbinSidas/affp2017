@@ -205,10 +205,10 @@ O1 och O2 fungerar hela vägen upp — de mäts likadant vid nio som vid nitton,
 
 | När | Vad |
 |---|---|
-| **Pass 5** (18 aug) | Kortet, testdag 1. Dela ut korten. Filmad observation. |
+| **Pass 7** (25 aug) | Kortet, testdag 1. Dela ut korten. Filmad observation. |
 | **Löpande** | O1 och O2 live, en spelare per tränare per pass |
 | **Slutet av varje block** | Tysta matchen, fem minuter |
-| **Pass 11** (8 sep) | Kortet, testdag 2. Filmad observation. |
+| **Pass 15** (22 sep) | Kortet, testdag 2. Filmad observation. |
 | **Pass 23** (20 okt) | Kortet, testdag 3. Filmad observation. Visa kurvan. |
 | **Efter säsongen** | Tränarna går igenom siffrorna. En kväll i november. Vad ändrar vi till våren? |
 

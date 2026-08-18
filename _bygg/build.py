@@ -416,14 +416,18 @@ S.append(thu(2,"13 aug","A","Skydda och gå",
  "Två korta stationer istället för ett långt block. CUP PÅ SÖNDAG: lägg inget nytt till idag. "
  "Ta två minuter i slutet om cupdagen — tider, mat, att alla spelar ungefär lika mycket."))
 
-S.append(tue(3,"18 aug","A","TESTDAG 1 — utgångsläge",
- [("0:00","ANK","Ankomst"),("0:15","11+","FIFA 11+ Kids"),
-  ("0:25","TEST","Testdag: T1 · T2 · T3 · T4 · T5 · T6, fyra min per station"),
-  ("0:50","G1","3 mot 3 på tre banor"),
-  ("1:12","G3","7 mot 7 på hel plan — introducera numren"),
-  ("1:25","—","Dela ut Kopparkorten")],
- "Dela ut korten idag. Säg tydligt: du tävlar mot dig själv, ingen annan. Ingen lista sätts upp. "
- "Börja passet med en fråga om cupen: vem provade något nytt? Prata inte om resultat."))
+S.append(tue(3,"18 aug","A","Block A förlängt — tvåledarpass",
+ [("0:00","ANK","Ankomst — boll var. Koner ute innan första spelaren kommer."),
+  ("0:15","A1","Färgvästen med hela gruppen — ledaren står stilla utanför rutan"),
+  ("0:25","KAR","DUBBEL karusell, två stationer:  A3 Grindar  ·  A4 Hajar. Två varv om sex minuter."),
+  ("0:50","A5","Mållinjespel — två banor, 4 mot 4 och 5 mot 5"),
+  ("1:12","G3","Största möjliga yta, jämna lag"),
+  ("1:27","—","Avslut: en sak du provade idag")],
+ "TVÅ LEDARE. Testdagen är flyttad till 25 augusti — den kräver tre vuxna och odelad "
+ "uppmärksamhet, och en halvgjord mätning är värre än ingen. Upplägget här är byggt för få "
+ "övergångar och övningar som rullar själva: A1 kräver att ledaren står still med västarna, "
+ "A3 räknar spelarna själva, och mållinjeregeln behöver ingen domare. Block A förlängs en "
+ "vecka — det kostar ingenting, temat behöver ändå sina tjugo möten. Är ni arton: 9 mot 9 sist."))
 
 S.append(thu(3,"20 aug","A","Volym",
  [("0:00","ANK","Ankomst"),("0:10","11+","Kort uppvärmning"),
@@ -431,13 +435,15 @@ S.append(thu(3,"20 aug","A","Volym",
   ("0:35","G4","5 mot 5 + sidostation: A3 Grindar med mållinjeregel. Rotera var sjätte minut.")],
  "Sista renodlade A-passet. Kolla grindsiffrorna mot vecka 1."))
 
-S.append(tue(4,"25 aug","A→B","Brygga: fintan introduceras",
+S.append(tue(4,"25 aug","A→B","TESTDAG 1 — utgångsläge",
  [("0:00","ANK","Ankomst"),("0:15","11+","FIFA 11+ Kids"),
-  ("0:25","KAR","Karusell:  B1 Fintstationen  ·  A3 Grindar  ·  MV3 Spela ut under press"),
-  ("0:47","G1","3 mot 3 — mållinjeregeln FINNS KVAR"),
-  ("1:12","G3","7 mot 7 på hel plan — bredd, sexan, målvakten spelar ut"),
-  ("1:25","—","Avslut")],
- "BRYGGA. Nytt tema i övningen, gammalt tema i spelet. MV3 kopplar målvakten till BOLL."))
+  ("0:25","TEST","Testdag: T1 · T2 · T3 · T6, fyra min per station"),
+  ("0:50","G1","3 mot 3 — mållinjeregeln FINNS KVAR"),
+  ("1:12","G3","7 mot 7 på hel plan"),
+  ("1:25","—","Dela ut Kopparkorten")],
+ "Dela ut korten idag. Säg tydligt: du tävlar mot dig själv, ingen annan. Ingen lista sätts upp. "
+ "Testdagen flyttades hit från den 18:e. BRYGGAN GÄLLER ÄNDÅ: mållinjeregeln ligger kvar i "
+ "spelet, och fintan introduceras på torsdag i stället för idag."))
 
 S.append(thu(4,"27 aug","A→B","Brygga: bonuspoängen introduceras",
  [("0:00","ANK","Ankomst"),("0:10","11+","Kort uppvärmning"),
@@ -462,14 +468,14 @@ S.append(thu(5,"3 sep","B","Duellvolym",
   ("0:35","G4","5 mot 5 med bonuspoäng + sidostation: B2 1 mot 1. Rotera var sjätte minut.")],
  "Ren dueltäthet. Räkna högt varje gång någon får 3 poäng."))
 
-S.append(tue(6,"8 sep","B","TESTDAG 2 — halvtid",
+S.append(tue(6,"8 sep","B","Duell och försvar",
  [("0:00","ANK","Ankomst"),("0:15","11+","FIFA 11+ Kids"),
-  ("0:25","TEST","Testdag: alla sex stationer. Korten med hemifrån."),
-  ("0:50","B4","3 mot 3 med bonuspoäng"),
-  ("1:12","G3","7 mot 7 — NUMREN: alla får ett nummer högt, roteras varje spel"),
+  ("0:25","KAR","Karusell:  B5 Styra anfallaren  ·  B2 1 mot 1 till två mål  ·  MV1 Målvaktsbågen"),
+  ("0:47","B4","3 mot 3 med bonuspoäng"),
+  ("1:12","G3","7 mot 7 — numren"),
   ("1:25","—","Avslut")],
- "Testdagen ligger här och inte den 15:e — då är det två dagar efter cupen och trötta ben "
- "ger en dipp som spelaren läser som att hen blivit sämre. Peka på förbättringen, aldrig på nivån."))
+ "Höstens enda renodlade försvarspass. B5 handlar om att komma snett och styra, inte om att "
+ "vinna bollen — ge poäng för att tvinga ut anfallaren över linjen. Bonuspoängen ligger kvar i spelet."))
 
 S.append(thu(6,"10 sep","B","Egen finta",
  [("0:00","ANK","Ankomst"),("0:10","11+","Kort uppvärmning"),
@@ -494,13 +500,15 @@ S.append(thu(7,"17 sep","B","Duellvolym",
   ("0:35","G4","5 mot 5 med bonuspoäng + sidostation: B3 Rullad boll. Rotera var sjätte minut.")],
  "Försvarsspelets enda pass i höst: kom nära, stå kvar på fötterna. Räkna även 1-mot-1-försök i en match."))
 
-S.append(tue(8,"22 sep","B→C","Brygga: titta före",
+S.append(tue(8,"22 sep","B→C","TESTDAG 2 — halvtid",
  [("0:00","ANK","Ankomst"),("0:15","11+","FIFA 11+ Kids"),
-  ("0:25","KAR","Karusell:  C1 Nummer bakom  ·  B2 1 mot 1  ·  MV3 Spela ut under press"),
-  ("0:47","B4","3 mot 3 — bonuspoängen FINNS KVAR"),
-  ("1:12","G3","7 mot 7 på hel plan — bredd, sexan, målvakten spelar ut"),
+  ("0:25","TEST","Testdag: T1 · T2 · T3 · T6. Korten med hemifrån."),
+  ("0:50","B4","3 mot 3 — bonuspoängen FINNS KVAR"),
+  ("1:12","G3","7 mot 7 i 2-3-1"),
   ("1:25","—","Avslut")],
- "BRYGGA. Nytt coachord: TITTA INNAN DU FÅR DEN. Bonuspoängen är kvar."))
+ "Här syns de första riktiga hoppen. Peka på förbättringen, inte på nivån. BRYGGAN GÄLLER ÄNDÅ: "
+ "bonuspoängen ligger kvar i spelet, och C1 med coachordet TITTA INNAN DU FÅR DEN kommer på "
+ "torsdag. Fyra veckor sedan testdag 1, fyra veckor till testdag 3."))
 
 S.append(thu(8,"24 sep","B→C","GENERALREPETITION — 7 mot 7",
  [("0:00","ANK","Ankomst"),("0:10","11+","Kort uppvärmning"),
@@ -564,7 +572,7 @@ S.append(thu(11,"15 okt","C","Volym",
 
 S.append(tue(12,"20 okt","C","Allt tillsammans",
  [("0:00","ANK","Ankomst"),("0:15","11+","FIFA 11+ Kids"),
-  ("0:25","TEST","TESTDAG 3 — alla sex stationer, sista mätningen"),
+  ("0:25","TEST","TESTDAG 3 — T1 · T2 · T3 · T6, sista mätningen"),
   ("0:50","B4","3 mot 3 med bonuspoäng"),
   ("1:12","G3","7 mot 7 på hel plan — bredd, sexan, målvakten spelar ut"),
   ("1:25","—","Avslut: vad är du bäst på nu som du inte var i augusti?")],
@@ -1142,7 +1150,7 @@ Därför mäter vi alltid utan att coacha under tiden.</p></div>
 <tr><td class="mono">T3</td><td>10 skott med svag fot</td><td><a href="#ex-T3">T3</a></td></tr>
 <tr><td class="mono">T6</td><td>10 bollar, säg siffran</td><td><a href="#ex-T6">T6</a></td></tr>
 </table>
-<p style="max-width:66ch">Testdagar: <a href="#p5">P5</a> 18 aug · <a href="#p11">P11</a> 8 sep ·
+<p style="max-width:66ch">Testdagar: <a href="#p7">P7</a> 25 aug · <a href="#p15">P15</a> 22 sep ·
 <a href="#p23">P23</a> 20 okt. Kortet är ett motivationsverktyg — varje spelare tävlar mot sin
 egen förra siffra, aldrig mot någon annans.</p>
 
